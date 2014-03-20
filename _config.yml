@@ -1,3 +1,8 @@
-name: Your New Jekyll Site
+name: Ami Miami
 markdown: redcarpet
 pygments: true
+meta:
+  site_title: "Ami Miami"
+  site_subtitle: "Miami's Only Partnership Minyan Community"
+  site_language: "en"
+permalink: pretty
