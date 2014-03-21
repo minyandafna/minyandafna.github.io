@@ -22,6 +22,7 @@
             </div>
             <div class="event-listing">
               <div class="event-listing-title">EVENTS THIS MONTH</div>
+              <% if(eventsThisMonth != null){ %>
               <% _.each(eventsThisMonth, function(event) { %>
                   <div class="event-item">
                     <div class="event-item-name"><a href="<%= event.link %>"><%= event.title %></a></div>
@@ -30,6 +31,9 @@
 <div class="event-item-location"><%= event.location %></div>
                   </div>
                 <% }); %>
+                <% } else{ %>
+                <p>No events this month</p>
+                <% } %>
             </div>
           </script>
         </div>
