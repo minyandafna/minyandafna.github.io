@@ -1,13 +1,23 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Ami Miami
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% include marketing.html %}
+
+  <!-- START THE FEATURETTES -->
+  <hr class="featurette-divider">
+<div id="cbp-so-scroller" class="cbp-so-scroller">
+
+{% include shabbat.html %}
+
+<hr class="featurette-divider ">
+
+{% include events.html %}
+
+  <hr class="featurette-divider">
+
+{% include contact.html %}
+  <hr class="featurette-divider">
+  <!-- /END THE FEATURETTES -->
 </div>

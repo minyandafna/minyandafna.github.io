@@ -6,3 +6,4 @@ meta:
   site_subtitle: "Miami's Only Partnership Minyan Community"
   site_language: "en"
 permalink: pretty
+bower: bower_components/
