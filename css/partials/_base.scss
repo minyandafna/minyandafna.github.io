@@ -6,7 +6,7 @@ body {
 /*	padding-top: 70px;*/
 /*  padding-bottom: 40px;*/
   color: #5a5a5a;
-  font-family: Neris;
+font-family: neris, sans-serif !important;
   /* Make sure to include @font-face for neris*/
 }
 
@@ -247,6 +247,11 @@ padding: 100px 15px;
 	background-position: center top;
 	background-repeat: no-repeat;
 }*/
+
+#events{
+  background: #777;
+  padding:0;
+}
 
 #dropdown{
 	background-color: #3498DB;
