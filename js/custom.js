@@ -56,3 +56,24 @@
 //            $('.navbar-default').css({"background":"transparent"});
 //        }
     });
+
+var clndr = {};
+
+$( function() {
+  
+   var eventsArrayNew = new Array();
+  
+  $.getJSON('/api/cal.json', function(data) {
+   $.each(data, function(i){
+    eventsArrayNew.push(data[i]);
+   })
+   console.log(eventsArrayNew);
+    
+  clndr = $('#full-clndr').clndr({
+    template: $('#full-clndr-template').html(),
+    events: eventsArrayNew
+  });
+    
+  });
+
+});

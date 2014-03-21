@@ -1,52 +1,44 @@
     <div id="events" class="featurette cbp-so-section">
+               <div id="full-clndr" class="clearfix cal2">
+          <script type="text/template" id="full-clndr-template">
+          
+            <div class="clndr-grid">
+                                    <div class="clndr-controls">
+          <div class="clndr-previous-button">&lsaquo;</div>
+          <div class="month"><%= month %></div>
+          <div class="clndr-next-button">&rsaquo;</div>
+        </div>
+
+              <div class="days-of-the-week clearfix">
+                <% _.each(daysOfTheWeek, function(day) { %>
+                  <div class="header-day"><%= day %></div>
+                <% }); %>
+              </div>
+              <div class="days clearfix">
+                <% _.each(days, function(day) { %>
+                  <div class="<%= day.classes %>" id="<%= day.id %>"><span class="day-number"><%= day.day %></span></div>
+                <% }); %>
+              </div>
+            </div>
+            <div class="event-listing">
+              <div class="event-listing-title">EVENTS THIS MONTH</div>
+              <% _.each(eventsThisMonth, function(event) { %>
+                  <div class="event-item">
+                    <div class="event-item-name"><a href="<%= event.link %>"><%= event.title %></a></div>
+                    <div class="event-item-date"><%= moment(event.date).format("MMMM D, YYYY") %> &middot; <%= moment(event.date).format("h:mm a") %></div>
+
+<div class="event-item-location"><%= event.location %></div>
+                  </div>
+                <% }); %>
+            </div>
+          </script>
+        </div>
+
+<!--
     	<div class="container">
 	      	<div class="row">
 	      	<div class="col-sm-12"><h3>Events</h3></div>
-	      	<!-- PUT CLNDR IN HERE! -->
-            
-			<div class="col-sm-6">
-			  <div class="thumbnail">
-				  <div class="caption">
-				    <h4>Purim Megillah Reading Extravaganza</h4>
-				    <p>March 14, 2014 &middot; 7:30 PM</p>
-				   </div>
-			  
-			    <img data-src="holder.js/500x200" alt="...">
-			    <div class="caption">
-			      <p><a href="#" class="btn btn-default" role="button">More Info</a></p>
-			    </div>
-			  </div>
-			</div>
-
-		<div class="col-sm-6">
-		  <div class="thumbnail">
-		  	<div class="caption">
-		  		<h4>Limmud Miami</h4>
-		  		<p>March 23, 2014 &middot; 12 PM</p>
-		  		
-		  	</div>
-		  
-		    <img data-src="holder.js/500x200" alt="...">
-		    <div class="caption">
-				<p><a href="#" class="btn btn-default" role="button">More Info</a></p>
-		    </div>
-		  </div>
-		</div>
-
-		<div class="col-sm-6">
-		  <div class="thumbnail">
-			  <div class="caption">
-			  	<h4>Shabbat with Rabbi Dr. Zev Farber</h4>
-			  	<p>March 28, 2014 &middot; 6:30 PM</p>
-		  	  </div>
-		    <img data-src="holder.js/500x200" alt="...">
-		    <div class="caption">
-				<p><a href="#" class="btn btn-default" role="button">More Info</a></p>
-		    </div>
-		  </div>
-		</div>
-
-			
 	        </div>
 	    </div>
+-->
     </div>
