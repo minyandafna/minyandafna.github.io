@@ -1,0 +1,20 @@
+---
+layout: nil
+---
+[
+{% assign first = true %}
+{% for post in site.posts %}
+  {% if post.type %}  
+    {% if first == false %},{% endif %}
+    {% if first == true %}{% assign first = false %}{% endif %}
+  {
+    "title"    : "{{ post.title | xml_escape }}",
+    "date"   : "{{ post.event-start}}",
+    "venue"   : "{{ post.event-venue }}",
+    "address" : "{{ post.event-address }}",
+    "link" : "{{ post.event-website }}",
+    "url"     : "{{ post.url }}"
+  }
+  {% endif %}
+{% endfor %}
+]
