@@ -231,6 +231,12 @@ header.jumbotron {
   background: #fff;
   padding: 10%; }
 
+#contact a {
+  color: #ccc; }
+
+#contact a:hover {
+  color: #E67E22; }
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 @media (min-width: 768px) {
