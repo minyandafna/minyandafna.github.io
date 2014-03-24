@@ -272,6 +272,11 @@ padding: 100px 15px;
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef2c4', endColorstr='#ffd8a3',GradientType=1 );
 }
 
+div.bpt_ticket_widget{
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
 #dropdown{
 	background-color: $amiblue;
 /*	background-image: url('watercloud.jpg');*/

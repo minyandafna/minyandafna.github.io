@@ -236,6 +236,10 @@ header.jumbotron {
   background: linear-gradient(45deg, #fef2c4 0%, #fef2c4 50%, #fee5b3 51%, #ffd8a3 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef2c4', endColorstr='#ffd8a3',GradientType=1 ); }
 
+div.bpt_ticket_widget {
+  margin-left: auto !important;
+  margin-right: auto !important; }
+
 #dropdown {
   background-color: #16A4D4;
   /*	background-image: url('watercloud.jpg');*/
