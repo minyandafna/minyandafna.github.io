@@ -46,6 +46,9 @@ footer {
   background-size: cover;
   z-index: -100; }
 
+a:hover {
+  color: #FFA841; }
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 .navbar-default {
@@ -76,16 +79,17 @@ footer {
   display: none !important; }
 
 .navbar .nav > li > a, .navbar .navbar-brand {
-  color: #3498DB; }
+  color: #16A4D4;
+  font-weight: 600; }
 
 .navbar .nav > li.active > a, .navbar .nav > li.active > a:hover, .navbar .nav > li.active > a:focus, .navbar .nav > li > a:hover, .navbar .nav > li > a:focus, .navbar .navbar-brand:hover, .navbar .navbar-brand:focus {
-  color: #E67E22; }
+  color: #FFA841; }
 
 a.navbar-light {
-  color: #3498DB !important; }
+  color: #16A4D4 !important; }
 
 a:hover.navbar-light, .active .navbar-light {
-  color: #E67E22 !important; }
+  color: #FFA841 !important; }
 
 /* CUSTOMIZE THE JUMBOTRON
 -------------------------------------------------- */
@@ -179,18 +183,18 @@ header.jumbotron {
   /*	background: #f5f5f5;*/ }
 
 .flaticon-love20, .flaticon-stars4 {
-  color: #3498DB; }
+  color: #16A4D4; }
 
 .flaticon-book126 {
-  color: #E67E22; }
+  color: #FFA841; }
 
 .svgicon {
   width: 200px;
   height: 200px;
-  fill: #3498DB; }
+  fill: #16A4D4; }
 
 .book {
-  fill: #E67E22; }
+  fill: #FFA841; }
 
 /* Featurettes
 ------------------------- */
@@ -212,7 +216,7 @@ header.jumbotron {
   padding: 100px 15px; }
 
 #shabbat {
-  background: #E67E22; }
+  background: #FFA841; }
 
 /*#contact{
 	background-color: #E67E22;
@@ -221,16 +225,18 @@ header.jumbotron {
 	background-repeat: no-repeat;
 }*/
 #events {
-  background: #777;
-  padding: 0; }
+  background: #fef2c4;
+  background: -webkit-linear-gradient(45deg, #fef2c4 0%, #fef2c4 50%, #fee5b3 51%, #ffd8a3 100%);
+  background: linear-gradient(45deg, #fef2c4 0%, #fef2c4 50%, #fee5b3 51%, #ffd8a3 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef2c4', endColorstr='#ffd8a3',GradientType=1 ); }
 
 #dropdown {
-  background-color: #3498DB;
+  background-color: #16A4D4;
   /*	background-image: url('watercloud.jpg');*/
   background-attachment: fixed; }
 
 #contact {
-  background-color: #3498DB; }
+  background-color: #16A4D4; }
 
 #mc_embed_signup {
   background: #fff;
@@ -240,7 +246,7 @@ header.jumbotron {
   color: #ccc; }
 
 #contact a:hover {
-  color: #E67E22; }
+  color: #FFA841; }
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */

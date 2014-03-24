@@ -23,6 +23,10 @@ footer{
 	z-index: -100;
 }
 
+a:hover{
+  color: $amiorange;
+}
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -36,7 +40,6 @@ footer{
 .navbar a{
 	
 }
-
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
 /*.navbar-wrapper {
@@ -64,22 +67,25 @@ footer{
 }
 
 .navbar .nav > li > a, .navbar .navbar-brand{
-	color: #3498DB;
+	color: $amiblue;
+    font-weight: 600;
+
 }
 
 .navbar .nav > li.active > a, .navbar .nav > li.active > a:hover, .navbar .nav > li.active > a:focus,.navbar .nav > li > a:hover, .navbar .nav > li > a:focus, .navbar .navbar-brand:hover, .navbar .navbar-brand:focus{
-	color: #E67E22;
+	color: $amiorange;
 }
 
 
 a.navbar-light{
-	color: #3498DB !important;
+	color: $amiblue !important;
 }
 
 a:hover.navbar-light, .active .navbar-light{
-	color: #E67E22 !important;
+	color: $amiorange !important;
 }
  
+
 
 
 /* CUSTOMIZE THE JUMBOTRON
@@ -194,22 +200,22 @@ display: none;
 }
 
 .flaticon-love20, .flaticon-stars4{
-	color: #3498DB;
+	color: $amiblue;
 }
 
 .flaticon-book126{
-	color: #E67E22;
+	color: $amiorange;
 }
 
 .svgicon{
 	width: 200px;
 	height: 200px;
-	fill: #3498DB;
+	fill: $amiblue;
 }
 
 
 .book{
-	fill: #E67E22;
+	fill: $amiorange;
 }
 
 
@@ -238,7 +244,7 @@ padding: 100px 15px;
 }
 
 #shabbat{
-	background: #E67E22;
+	background: $amiorange;
 }
 
 /*#contact{
@@ -248,19 +254,25 @@ padding: 100px 15px;
 	background-repeat: no-repeat;
 }*/
 
+//#events{
+//  background: #777;
+//  padding:0;
+//}
+
 #events{
-  background: #777;
-  padding:0;
+  background: #fef2c4;
+  background: linear-gradient(45deg,  #fef2c4 0%,#fef2c4 50%,#fee5b3 51%,#ffd8a3 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef2c4', endColorstr='#ffd8a3',GradientType=1 );
 }
 
 #dropdown{
-	background-color: #3498DB;
+	background-color: $amiblue;
 /*	background-image: url('watercloud.jpg');*/
 	background-attachment: fixed;
 }
 
 #contact{
-	background-color: #3498DB;
+	background-color: $amiblue;
 }
 
 #mc_embed_signup{
@@ -273,7 +285,7 @@ padding: 100px 15px;
 }
 
 #contact a:hover{
-	color: #E67E22;
+	color: $amiorange;
 }
 
 
