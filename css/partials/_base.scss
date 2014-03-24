@@ -27,6 +27,10 @@ a:hover{
   color: $amiorange;
 }
 
+.form-group.focus .form-control, .form-control:focus{
+  border-color: $amiblue;
+}
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -288,6 +292,9 @@ padding: 100px 15px;
 	color: $amiorange;
 }
 
+.btn-warning{
+  background-color: $amiorange;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */

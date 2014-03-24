@@ -49,6 +49,9 @@ footer {
 a:hover {
   color: #FFA841; }
 
+.form-group.focus .form-control, .form-control:focus {
+  border-color: #16A4D4; }
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 .navbar-default {
@@ -247,6 +250,9 @@ header.jumbotron {
 
 #contact a:hover {
   color: #FFA841; }
+
+.btn-warning {
+  background-color: #FFA841; }
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
