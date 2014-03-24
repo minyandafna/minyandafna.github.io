@@ -94,6 +94,9 @@ a.navbar-light {
 a:hover.navbar-light, .active .navbar-light {
   color: #FFA841 !important; }
 
+.navbar-default .navbar-toggle:hover:before, .navbar-default .navbar-toggle:focus:before {
+  color: #16A4D4; }
+
 /* CUSTOMIZE THE JUMBOTRON
 -------------------------------------------------- */
 header.jumbotron {

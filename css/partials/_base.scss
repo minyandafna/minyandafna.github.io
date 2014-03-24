@@ -89,6 +89,9 @@ a:hover.navbar-light, .active .navbar-light{
 	color: $amiorange !important;
 }
  
+.navbar-default .navbar-toggle:hover:before, .navbar-default .navbar-toggle:focus:before{
+  color: $amiblue;
+}
 
 
 
