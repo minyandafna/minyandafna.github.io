@@ -1,11 +1,15 @@
-@import 'modules/colors';
-
-@import 'partials/newflaticon';
-
-@import 'partials/fonts';
-
+//Modules and Variables
 @import 'partials/base';
 
-@import 'partials/scrollmover';
+// Partials
+@import 'partials/fonts';
+@import 'partials/global';
+@import 'partials/navbar';
+@import 'partials/jumbotron';
+@import 'partials/marketing';
+@import 'partials/featurettes';
 
-@import 'partials/clndr';
+// Third-Party
+@import 'vendor/scrollmover';
+@import 'vendor/clndr';
+@import 'vendor/newflaticon';
