@@ -32,6 +32,11 @@
 max-height: 400px;
 }
 
+.mark-top{
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+
 // Responsive
 @media (min-width: 992px) {
   .jumbotron h1{
