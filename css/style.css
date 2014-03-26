@@ -22,7 +22,6 @@ a:hover {
 .navbar-wrapper .container {
   padding-left: 0;
   padding-right: 0; }
-
 .navbar-wrapper .navbar {
   padding-left: 15px;
   padding-right: 15px;
@@ -47,43 +46,33 @@ a:hover.navbar-light, .active .navbar-light {
 .navbar-default .navbar-toggle:hover:before, .navbar-default .navbar-toggle:focus:before {
   color: #16A4D4; }
 
-@media (min-width: 768px) {
-  .navbar-wrapper .navbar {
-    /*    border-radius: 4px;*/
-    border-radius: 0px; } }
-
-header.jumbotron {
+.jumbotron {
   /*	height: 650px;*/
   background: url('/img/watercloud_blur_light.jpg') fixed;
   -webkit-background-size: cover;
   background-size: cover;
   margin-bottom: 0;
   margin-top: -50px; }
-
-.jumbotron h1 {
-  margin-top: 100px;
-  /*	background: url('ami_logo.png');
-	width: 600px;
-	height: 400px;*/ }
-
-.jumbotron img {
-  display: block;
-  margin: auto;
-  margin-top: 50px; }
+  .jumbotron h1 {
+    margin-top: 100px;
+    /*	background: url('ami_logo.png');
+    width: 600px;
+    height: 400px;*/ }
+  .jumbotron img {
+    display: block;
+    margin: auto;
+    margin-top: 50px; }
 
 .logo {
   max-height: 400px; }
 
-@media (min-width: 992px) {
-  .jumbotron h1 {
-    margin-top: 200px; } }
-
-.marketing-wrap {
-  background: #fff; }
-
 .mark-top {
   margin-top: 0;
   margin-bottom: 30px; }
+
+@media (min-width: 992px) {
+  .jumbotron h1 {
+    margin-top: 200px; } }
 
 /* Pad the edges of the mobile views a bit */
 .marketing {
@@ -91,39 +80,22 @@ header.jumbotron {
   padding-right: 15px;
   padding-top: 100px;
   padding-bottom: 50px; }
-
-/* Center align the text within the three columns below the carousel */
-.marketing .col-sm-4 {
-  text-align: center;
-  margin-bottom: 100px; }
-
-.marketing h2 {
-  font-weight: normal; }
-
-.marketing .col-sm-4 p {
-  margin-left: 10px;
-  margin-right: 10px; }
-
+  .marketing .col-sm-4 {
+    text-align: center;
+    margin-bottom: 100px; }
+  .marketing .col-sm-4 p {
+    margin-left: 10px;
+    margin-right: 10px; }
 
 .front_icons {
-  /*	width: 150px;*/
   font-size: 200px;
-  line-height: 100px;
-  /*	background: #f5f5f5;*/ }
+  line-height: 100px; }
 
 .flaticon-love20, .flaticon-stars4 {
   color: #16A4D4; }
 
 .flaticon-book126 {
   color: #FFA841; }
-
-.svgicon {
-  width: 200px;
-  height: 200px;
-  fill: #16A4D4; }
-
-.book {
-  fill: #FFA841; }
 
 @media (min-width: 768px) {
   /* Remove the edge padding needed for mobile */
@@ -132,75 +104,56 @@ header.jumbotron {
     padding-right: 0;
     padding-bottom: 20px; } }
 
-@media (min-width: 992px) {
-  .featurette-heading {
-    margin-top: 120px; } }
-
-/* Featurettes
-------------------------- */
 .featurette-divider {
   display: none;
   margin: 80px 0; }
+
+.featurette {
+  padding: 100px 15px; }
 
 .featurette-heading {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px; }
 
-.featurettes {
-  margin: 0; }
-
-.featurette {
-  padding: 100px 15px; }
-
 #shabbat {
   background: #FFA841; }
+  #shabbat dt {
+    text-transform: uppercase; }
 
-/*#contact{
-	background-color: #E67E22;
-	background-image: url('cloudwater.jpg');
-	background-position: center top;
-	background-repeat: no-repeat;
-}*/
 #events {
   background: #fef2c4;
   background: -webkit-linear-gradient(45deg, #fef2c4 0%, #fef2c4 50%, #fee5b3 51%, #ffd8a3 100%);
   background: linear-gradient(45deg, #fef2c4 0%, #fef2c4 50%, #fee5b3 51%, #ffd8a3 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef2c4', endColorstr='#ffd8a3',GradientType=1 ); }
 
+#contact {
+  background-color: #16A4D4; }
+  #contact a {
+    color: #ccc; }
+    #contact a:hover {
+      color: #FFA841; }
+
 div.bpt_ticket_widget {
   margin-left: auto !important;
   margin-right: auto !important; }
-
-#dropdown {
-  background-color: #16A4D4;
-  /*	background-image: url('watercloud.jpg');*/
-  background-attachment: fixed; }
-
-#contact {
-  background-color: #16A4D4; }
 
 #mc_embed_signup {
   background: #fff;
   padding: 10%; }
 
-#contact a {
-  color: #ccc; }
-
-#contact a:hover {
-  color: #FFA841; }
-
 .btn-warning {
   background-color: #FFA841; }
-
-#shabbat dt {
-  text-transform: uppercase; }
 
 @media (min-width: 768px) {
   .featurette {
     background-attachment: fixed; }
   .featurette-heading {
     font-size: 50px; } }
+
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 120px; } }
 
 .cbp-so-scroller {
   /*	margin-top: 3em;*/
