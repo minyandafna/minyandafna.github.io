@@ -1,0 +1,94 @@
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+	display: none;
+  margin: 80px 0;
+}
+
+///* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.featurettes{
+	margin: 0;
+}
+
+.featurette{
+padding: 100px 15px;
+	
+}
+
+#shabbat{
+	background: $amiorange;
+}
+
+/*#contact{
+	background-color: #E67E22;
+	background-image: url('cloudwater.jpg');
+	background-position: center top;
+	background-repeat: no-repeat;
+}*/
+
+//#events{
+//  background: #777;
+//  padding:0;
+//}
+
+#events{
+  background: #fef2c4;
+  background: linear-gradient(45deg,  #fef2c4 0%,#fef2c4 50%,#fee5b3 51%,#ffd8a3 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef2c4', endColorstr='#ffd8a3',GradientType=1 );
+}
+
+div.bpt_ticket_widget{
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+#dropdown{
+	background-color: $amiblue;
+/*	background-image: url('watercloud.jpg');*/
+	background-attachment: fixed;
+}
+
+#contact{
+	background-color: $amiblue;
+}
+
+#mc_embed_signup{
+	background: #fff;
+	padding: 10%;
+}
+
+#contact a{
+	color: #ccc;
+}
+
+#contact a:hover{
+	color: $amiorange;
+}
+
+.btn-warning{
+  background-color: $amiorange;
+}
+
+#shabbat dt{
+  text-transform: uppercase;
+}
+
+// Responsive
+@media (min-width: 768px) {
+
+  .featurette{
+  		background-attachment: fixed;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+
+}
