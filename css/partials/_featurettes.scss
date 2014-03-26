@@ -1,0 +1,85 @@
+///* Featurettes
+//------------------------- */
+
+.featurette-divider { //WHAT IS THE POINT OF THIS???
+	display: none;
+  margin: 80px 0;
+}
+
+.featurette{
+  padding: 100px 15px;
+}
+
+///* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+// 3 Sections
+#shabbat{
+	background: $amiorange;
+
+  dt{
+  text-transform: uppercase;
+  }
+
+}
+
+#events{
+  // try making this a mixin/function?
+  background: #fef2c4;
+  background: linear-gradient(45deg,  #fef2c4 0%,#fef2c4 50%,#fee5b3 51%,#ffd8a3 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef2c4', endColorstr='#ffd8a3',GradientType=1 );
+}
+
+// Events for Calendar
+//#events{
+//  background: #777;
+//  padding:0;
+//}
+
+#contact{
+  background-color: $amiblue;
+  a{
+    color: #ccc;
+    &:hover{
+      color: $amiorange;
+     }
+  }
+}
+
+// Special Widgets
+
+div.bpt_ticket_widget{
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+#mc_embed_signup{
+	background: #fff;
+	padding: 10%;
+}
+
+.btn-warning{
+  background-color: $amiorange;
+}
+
+// Responsive
+@media (min-width: 768px) {
+
+  .featurette{
+  		background-attachment: fixed;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+
+}
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}
