@@ -43,7 +43,12 @@ $(document).ready(function () {
 
     clndr = $('#full-clndr').clndr({
       template: $('#full-clndr-template').html(),
-      events: eventsArrayNew
+      events: eventsArrayNew,
+      targets: {
+        nextButton: 'clndr-button-next',
+        previousButton: 'clndr-button-prev',
+      }
+
     });
 
   });
