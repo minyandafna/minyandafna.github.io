@@ -31,7 +31,7 @@
                   <a data-toggle="modal" class="event-item panel" id="event-<%= moment(event.date).format("YYYY-MM-DD") %>" href="<%= event.url %>" data-target=".modal">
                     <h3 class="event-item-name"><%= event.title %></h3>
                     <h4 class="event-item-date"><%= moment(event.date).format("MMMM D, YYYY") %> &middot; <%= moment(event.date).format("h:mm a") %></h4>
-                    <p class="event-item-location"><%= event.location %></p>
+                    <p class="event-item-location"><%= event.venue %></p>
                   </a>
                 <% }); %>
                 <% } else{ %>

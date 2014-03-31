@@ -44,6 +44,21 @@ $(document).ready(function () {
     clndr = $('#full-clndr').clndr({
       template: $('#full-clndr-template').html(),
       events: eventsArrayNew,
+      clickEvents: {
+        click: function(target) {
+          if(target.events.length) {
+            var eventUrl = $.map(target.events, function(val) {
+              return val.url;
+            });
+
+            $('.modal').modal({
+              remote: eventUrl
+            });
+
+          }
+        }
+      },
+
       targets: {
         nextButton: 'clndr-button-next',
         previousButton: 'clndr-button-prev',
