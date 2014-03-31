@@ -3,10 +3,10 @@
         <div id="full-clndr" class="clearfix cal2 row">
           <script type="text/template" id="full-clndr-template">
           
-            <div class="clndr-grid col-sm-6">
+            <div class="clndr-grid col-sm-6 cbp-so-side cbp-so-side-left">
               <div class="clndr-controls">
                 <div class="clndr-button clndr-button-prev">&lsaquo;</div>
-                <div class="month"><%= month %> <%= year %></div>
+                <!--<div class="month"><%= month %> <%= year %></div>-->
                 <div class="clndr-button clndr-button-next">&rsaquo;</div>
               </div>
 
@@ -22,8 +22,9 @@
               </div>
             </div>
 
-            <div class="event-listing col-sm-6">
-              <div class="event-listing-title">EVENTS THIS MONTH</div>
+            <div class="event-listing col-sm-6 cbp-so-side cbp-so-side-right">
+		          <h2 class="featurette-heading"><%= month %> <%= year %> Events</h2>
+		          <p class="lead">Click on an event to see more info</p>
 
               <% if(eventsThisMonth != null){ %>
               <% _.each(eventsThisMonth, function(event) { %>
