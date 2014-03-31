@@ -1,13 +1,14 @@
     <div id="events" class="featurette cbp-so-section">
-               <div id="full-clndr" class="clearfix cal2">
+      <div class="container">
+        <div id="full-clndr" class="clearfix cal2 row">
           <script type="text/template" id="full-clndr-template">
           
-            <div class="clndr-grid">
-                                    <div class="clndr-controls">
-          <div class="clndr-previous-button">&lsaquo;</div>
-          <div class="month"><%= month %></div>
-          <div class="clndr-next-button">&rsaquo;</div>
-        </div>
+            <div class="clndr-grid col-sm-6">
+              <div class="clndr-controls">
+                <div class="clndr-button clndr-button-prev">&lsaquo;</div>
+                <div class="month"><%= month %> <%= year %></div>
+                <div class="clndr-button clndr-button-next">&rsaquo;</div>
+              </div>
 
               <div class="days-of-the-week clearfix">
                 <% _.each(daysOfTheWeek, function(day) { %>
@@ -20,16 +21,17 @@
                 <% }); %>
               </div>
             </div>
-            <div class="event-listing">
+
+            <div class="event-listing col-sm-6">
               <div class="event-listing-title">EVENTS THIS MONTH</div>
+
               <% if(eventsThisMonth != null){ %>
               <% _.each(eventsThisMonth, function(event) { %>
-                  <div class="event-item">
-                    <div class="event-item-name"><a href="<%= event.link %>"><%= event.title %></a></div>
-                    <div class="event-item-date"><%= moment(event.date).format("MMMM D, YYYY") %> &middot; <%= moment(event.date).format("h:mm a") %></div>
-
-<div class="event-item-location"><%= event.location %></div>
-                  </div>
+                  <a data-toggle="modal" class="event-item panel" id="event-<%= moment(event.date).format("YYYY-MM-DD") %>" href="<%= event.url %>" data-target=".modal">
+                    <h3 class="event-item-name"><%= event.title %></h3>
+                    <h4 class="event-item-date"><%= moment(event.date).format("MMMM D, YYYY") %> &middot; <%= moment(event.date).format("h:mm a") %></h4>
+                    <p class="event-item-location"><%= event.location %></p>
+                  </a>
                 <% }); %>
                 <% } else{ %>
                 <p>No events this month</p>
@@ -37,12 +39,5 @@
             </div>
           </script>
         </div>
-
-<!--
-    	<div class="container">
-	      	<div class="row">
-	      	<div class="col-sm-12"><h3>Events</h3></div>
-	        </div>
-	    </div>
--->
     </div>
+  </div>
