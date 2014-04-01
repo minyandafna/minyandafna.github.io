@@ -30,7 +30,7 @@
               <% _.each(eventsThisMonth, function(event) { %>
                   <a data-toggle="modal" class="event-item panel" id="event-<%= moment(event.date).format("YYYY-MM-DD") %>" href="<%= event.url %>" data-target=".modal">
                     <h3 class="event-item-name"><%= event.title %></h3>
-                    <h4 class="event-item-date"><%= moment(event.date).format("MMMM D, YYYY") %> &nbsp; <span class="fui-time"></span> &nbsp; <%= moment(event.date).zone(0).format("h:mm a") %></h4>
+                    <h4 class="event-item-date"><%= moment(event.date).format("MMMM D, YYYY") %> &nbsp; <span class="fui-time"></span> &nbsp; <%= moment(event.time).zone(0).format("h:mm a") %></h4>
                   </a>
                 <% }); %>
                 <% } else{ %>
