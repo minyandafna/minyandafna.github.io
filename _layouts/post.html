@@ -1,17 +1,28 @@
 <div class="modal-header">
   <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
   <h4 class="modal-title">{{ page.title }}</h4>
-  <h3 class="meta">{{ page.event-start }}</h3>
-  <h3 class="meta">{{ page.event-venue }}</h3>
-  <p class="meta">{{ page.event-address }}</p>
 </div>
 
 <div class="modal-body">
+  <div class="row">
+    <div class="col-xs-6">
+      <span class="glyphicon glyphicon-calendar"></span> &nbsp; <strong>{{ page.event-start |  date: "%b %d, %Y &nbsp;&middot;&nbsp; %-I:%M %p" }}</strong>
+    </div>
+    <div class="col-xs-6">
+
+      <address>
+        <span class="glyphicon glyphicon-road"></span> &nbsp;
+        <strong>{{ page.event-venue }}</strong><br>
+        {{ page.event-address }}
+      </address>
+    </div>
+  </div>
+
   {{ content }}
 </div>
 
 {{% if page.event-action %}}
 <div class="modal-footer">
-  <a href="{{page.event-action-url}}" class="btn btn-primary">{{page.event-action}}</a>
+  <a href="{{page.event-action-url}}" class="btn btn-warning">{{page.event-action}}</a>
 </div>
 {{% endif %}}
