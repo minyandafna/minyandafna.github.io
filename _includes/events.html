@@ -10,12 +10,12 @@
                 <div class="clndr-button clndr-button-next">&rsaquo;</div>
               </div>
 
-              <div class="days-of-the-week clearfix">
+              <div class="days-of-the-week clearfix hidden-xs">
                 <% _.each(daysOfTheWeek, function(day) { %>
                   <div class="header-day"><%= day %></div>
                 <% }); %>
               </div>
-              <div class="days clearfix">
+              <div class="days clearfix hidden-xs">
                 <% _.each(days, function(day) { %>
                   <div class="<%= day.classes %>" id="<%= day.id %>"><span class="day-number"><%= day.day %></span></div>
                 <% }); %>
