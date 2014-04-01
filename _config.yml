@@ -7,3 +7,4 @@ meta:
   site_language: "en"
 permalink: pretty
 bower: bower_components/
+timezone: America/New_York
