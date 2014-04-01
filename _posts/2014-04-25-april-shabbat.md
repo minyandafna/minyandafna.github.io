@@ -8,6 +8,9 @@ type: event
 event-venue: Nacron Chapel, Beth Torah Benny Rok Campus
 event-address: 20350 NE 26th Ave, North Miami Beach, FL 33080
 event-website: http://shabbatdinner.bpt.me
+event-action: Sign up for tickets
+event-action-url: http://shabbatdinner.bpt.me
+
 tags:
 - shabbat
 - davening
