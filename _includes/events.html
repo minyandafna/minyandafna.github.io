@@ -1,35 +1,37 @@
     <div id="events" class="featurette cbp-so-section">
-               <div id="full-clndr" class="clearfix cal2">
+      <div class="container">
+        <div id="full-clndr" class="clearfix cal2 row">
           <script type="text/template" id="full-clndr-template">
           
-            <div class="clndr-grid">
-                                    <div class="clndr-controls">
-          <div class="clndr-previous-button">&lsaquo;</div>
-          <div class="month"><%= month %></div>
-          <div class="clndr-next-button">&rsaquo;</div>
-        </div>
+            <div class="clndr-grid col-sm-6 cbp-so-side cbp-so-side-left">
+              <div class="clndr-controls">
+                <div class="clndr-button clndr-button-prev">&lsaquo;</div>
+                <!--<div class="month"><%= month %> <%= year %></div>-->
+                <div class="clndr-button clndr-button-next">&rsaquo;</div>
+              </div>
 
-              <div class="days-of-the-week clearfix">
+              <div class="days-of-the-week clearfix hidden-xs">
                 <% _.each(daysOfTheWeek, function(day) { %>
                   <div class="header-day"><%= day %></div>
                 <% }); %>
               </div>
-              <div class="days clearfix">
+              <div class="days clearfix hidden-xs">
                 <% _.each(days, function(day) { %>
                   <div class="<%= day.classes %>" id="<%= day.id %>"><span class="day-number"><%= day.day %></span></div>
                 <% }); %>
               </div>
             </div>
-            <div class="event-listing">
-              <div class="event-listing-title">EVENTS THIS MONTH</div>
+
+            <div class="event-listing col-sm-6 cbp-so-side cbp-so-side-right">
+		          <h2 class="featurette-heading"><%= month %> <%= year %> Events</h2>
+		          <p class="lead">Click on an event to see more info</p>
+
               <% if(eventsThisMonth != null){ %>
               <% _.each(eventsThisMonth, function(event) { %>
-                  <div class="event-item">
-                    <div class="event-item-name"><a href="<%= event.link %>"><%= event.title %></a></div>
-                    <div class="event-item-date"><%= moment(event.date).format("MMMM D, YYYY") %> &middot; <%= moment(event.date).format("h:mm a") %></div>
-
-<div class="event-item-location"><%= event.location %></div>
-                  </div>
+                  <a data-toggle="modal" class="event-item panel" id="event-<%= moment(event.date).format("YYYY-MM-DD") %>" href="<%= event.url %>" data-target=".modal">
+                    <h3 class="event-item-name"><%= event.title %></h3>
+                    <h4 class="event-item-date"><%= moment(event.date).format("MMMM D, YYYY") %> &nbsp; <span class="fui-time"></span> &nbsp; <%= moment(event.time).zone(0).format("h:mm a") %></h4>
+                  </a>
                 <% }); %>
                 <% } else{ %>
                 <p>No events this month</p>
@@ -37,12 +39,5 @@
             </div>
           </script>
         </div>
-
-<!--
-    	<div class="container">
-	      	<div class="row">
-	      	<div class="col-sm-12"><h3>Events</h3></div>
-	        </div>
-	    </div>
--->
     </div>
+  </div>

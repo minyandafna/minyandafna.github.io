@@ -9,7 +9,8 @@ layout: nil
     {% if first == true %}{% assign first = false %}{% endif %}
   {
     "title"    : "{{ post.title | xml_escape }}",
-    "date"   : "{{ post.event-start}}",
+    "date"   : "{{ post.event-start | date: "%Y-%m-%d"}}",
+    "time"  : "{{post.event-start | date_to_xmlschema }}",
     "venue"   : "{{ post.event-venue }}",
     "address" : "{{ post.event-address }}",
     "link" : "{{ post.event-website }}",
