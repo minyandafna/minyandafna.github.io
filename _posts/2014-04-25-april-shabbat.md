@@ -2,7 +2,7 @@
 title: "April Shabbat"
 layout: post
 event-allday: false
-event-start: 2014-04-25 19:00:00 +0500
+event-start: 2014-04-25 19:00:00 -0500
 event-end: 2014-04-26 02:00:00
 type: event
 event-venue: Nacron Chapel, Beth Torah Benny Rok Campus
