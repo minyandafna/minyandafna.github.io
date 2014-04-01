@@ -4,6 +4,7 @@ layout: post
 event-allday: false
 event-start: 2014-03-28 18:30:00
 event-end: 2014-03-28 21:30:00
+event-time: "6:30 pm"
 type: event
 event-venue: Nacron Chapel, Beth Torah Benny Rok Campus
 event-address: 20350 NE 26th Ave, North Miami Beach, FL 33080
