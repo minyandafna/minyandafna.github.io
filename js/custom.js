@@ -72,6 +72,11 @@ $(document).ready(function () {
     $(e.target).removeData("bs.modal").find(".modal-content").empty();
   });
 
+  $(".marketing").popover({
+    trigger: 'hover'
+  });
 
+  $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+  $("body").popover({ selector: '[data-toggle=popover]', trigger: 'hover'  });
 
 });
