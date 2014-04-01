@@ -5,6 +5,9 @@ body {
 footer {
   padding: 1em; }
 
+a {
+  color: #16A4D4; }
+
 a:hover {
   color: #FFA841; }
 
