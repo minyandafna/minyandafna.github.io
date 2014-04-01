@@ -48,7 +48,7 @@
         font-size: 30px;
 
         &.event{
-          background: rgb(22, 164, 212);
+          background: $amiblue;
           color: #fff;
         }
       }
@@ -75,10 +75,11 @@
 
     .event-item{
       display: block;
-      padding: 14px;
-      color: #4f4f4f;
-      background: #eee;
+      padding: 0 14px;
+      background: $amiblue;
+      color: #fff;
       margin: 20px 0;
+      border-radius: 0;
 
       p{
         font-weight: 400;
@@ -97,6 +98,7 @@
 .event-item-name{
   font-size: 30px;
   font-weight: 600;
+  margin-top: 15px;
 }
 
 .event-item-date{
