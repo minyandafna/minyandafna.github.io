@@ -1,10 +1,10 @@
-name: Ami Miami
+name: Minyan Dafna
 markdown: redcarpet
 pygments: true
 meta:
-  site_title: "Ami Miami"
-  site_subtitle: "Miami's Only Partnership Minyan Community"
+  site_title: "Minyan Dafna"
+  site_subtitle: "A new independent minyan in Berkeley"
   site_language: "en"
 permalink: pretty
 bower: bower_components/
-timezone: America/New_York
+timezone: America/Los_Angeles
