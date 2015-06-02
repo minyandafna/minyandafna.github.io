@@ -1,4 +1,4 @@
-amimiami.github.io
+minyandafna.github.io
 ==================
 
-Ami Miami public website
+Minyan Dafna public website
