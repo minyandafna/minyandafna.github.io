@@ -2,8 +2,8 @@
 title: Shabbat Morning Minyan
 layout: post
 event-allday: false
-event-start: 2015-06-13T07:00:00.000Z
-event-end: 2015-06-13T07:00:00.000Z
+event-start: 2015-06-13 09:30:00
+event-end: 2015-06-13 12:30:00
 event-time: "9:30 am"
 type: event
 event-venue: Congregation Netivot Shalom
