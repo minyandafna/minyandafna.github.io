@@ -27,7 +27,6 @@
     "commit": "051f832d931d59f6bdeca32aebe7a8c61756e9d4"
   },
   "_source": "git://github.com/kylestetz/CLNDR.git",
-  "_target": "~1.2.0",
-  "_originalSource": "clndr",
-  "_direct": true
+  "_target": "1.2.0",
+  "_originalSource": "clndr"
 }
