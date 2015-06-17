@@ -22,13 +22,13 @@ footer{
 //}
 
 a{
-  color: $amiblue;
+  color: $mdgreen;
 }
 
 a:hover{
-  color: $amiorange;
+  color: $mdbrown;
 }
 
 .form-group.focus .form-control, .form-control:focus{
-  border-color: $amiblue;
+  border-color: $mdgreen;
 }

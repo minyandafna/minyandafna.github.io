@@ -18,22 +18,24 @@
 }
 
 // 3 Sections
-#shabbat{
-	background: $amiorange;
+//#shabbat{
+//	background: $amiorange;
+//
+//  dt{
+//  text-transform: uppercase;
+//  }
+//
+//}
 
-  dt{
-  text-transform: uppercase;
-  }
 
-}
 
 #events{
   // try making this a mixin/function?
-  background: #fef2c4;
-  background: linear-gradient(45deg,  #fef2c4 0%,#fef2c4 50%,#fee5b3 51%,#ffd8a3 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef2c4', endColorstr='#ffd8a3',GradientType=1 );
-}
-
+//  background: #fef2c4;
+//  background: linear-gradient(45deg,  #fef2c4 0%,#fef2c4 50%,#fee5b3 51%,#ffd8a3 100%);
+//  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef2c4', endColorstr='#ffd8a3',GradientType=1 );
+//}
+background: $mdbrown;
 // Events for Calendar
 //#events{
 //  background: #777;
@@ -41,11 +43,11 @@
 //}
 
 #contact{
-  background-color: $amiblue;
+  background-color: $mdgray;
   a{
     color: #ccc;
     &:hover{
-      color: $amiorange;
+      color: $mdgreen;
      }
   }
 }
@@ -63,7 +65,7 @@ div.bpt_ticket_widget{
 }
 
 .btn-warning{
-  background-color: $amiorange;
+  background-color: $mdbrown;
 }
 
 // Responsive

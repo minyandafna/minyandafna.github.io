@@ -35,23 +35,23 @@
 }
 
 .navbar .nav > li > a, .navbar .navbar-brand{
-	color: $amiblue;
+	color: $mdgreen;
   font-weight: 600;
 }
 
 .navbar .nav > li.active > a, .navbar .nav > li.active > a:hover, .navbar .nav > li.active > a:focus,.navbar .nav > li > a:hover, .navbar .nav > li > a:focus, .navbar .navbar-brand:hover, .navbar .navbar-brand:focus{
-	color: $amiorange;
+	color: $mdbrown;
 }
 
 
 a.navbar-light{
-	color: $amiblue !important;
+	color: $mdgreen !important;
 }
 
 a:hover.navbar-light, .active .navbar-light{
-	color: $amiorange !important;
+	color: $mdbrown !important;
 }
  
 .navbar-default .navbar-toggle:hover:before, .navbar-default .navbar-toggle:focus:before{
-  color: $amiblue;
+  color: $mdgreen;
 }
