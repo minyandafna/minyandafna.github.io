@@ -8,3 +8,5 @@ meta:
 permalink: pretty
 bower: bower_components/
 timezone: America/Los_Angeles
+sass:
+  sass_dir: _sass
