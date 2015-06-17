@@ -27,7 +27,9 @@
 //
 //}
 
-
+#about{
+  background: $mdgray;
+}
 
 #events{
   // try making this a mixin/function?
@@ -43,7 +45,7 @@ background: $mdbrown;
 //}
 
 #contact{
-  background-color: $mdgray;
+  background-color: $mdgreen;
   a{
     color: #ccc;
     &:hover{
@@ -66,7 +68,12 @@ div.bpt_ticket_widget{
 
 .btn-warning{
   background-color: $mdbrown;
+  &:hover{
+    background-color: $mdgreen;
+  }
 }
+
+
 
 // Responsive
 @media (min-width: 768px) {
