@@ -27,15 +27,17 @@
 //
 //}
 
-
+#about{
+  background: $mdgray;
+}
 
 #events{
   // try making this a mixin/function?
 //  background: #fef2c4;
 //  background: linear-gradient(45deg,  #fef2c4 0%,#fef2c4 50%,#fee5b3 51%,#ffd8a3 100%);
 //  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef2c4', endColorstr='#ffd8a3',GradientType=1 );
-//}
 background: $mdbrown;
+  }
 // Events for Calendar
 //#events{
 //  background: #777;
@@ -43,7 +45,7 @@ background: $mdbrown;
 //}
 
 #contact{
-  background-color: $mdgray;
+  background-color: $mdgreen;
   a{
     color: #ccc;
     &:hover{
@@ -66,7 +68,12 @@ div.bpt_ticket_widget{
 
 .btn-warning{
   background-color: $mdbrown;
+  &:hover{
+    background-color: $mdgreen;
+  }
 }
+
+
 
 // Responsive
 @media (min-width: 768px) {
