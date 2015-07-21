@@ -46,11 +46,29 @@ background: $mdbrown;
 
 #contact{
   background-color: $mdgreen;
-  a{
-    color: #ccc;
-    &:hover{
-      color: $mdgreen;
-     }
+  .cbp-so-side-left{
+    a{
+      color: #ccc;
+      &:hover{
+        color: $mdgreen;
+       }
+    }
+  }
+  .nav-tabs{
+    background: #fff;
+    border-bottom: none;
+    a{
+      border: none;
+      &:hover{
+        background: none;
+      }
+    }
+
+  }
+  .tab-pane{
+    background: #fff;
+	 padding: 10%;
+
   }
 }
 
@@ -59,11 +77,6 @@ background: $mdbrown;
 div.bpt_ticket_widget{
   margin-left: auto !important;
   margin-right: auto !important;
-}
-
-#mc_embed_signup{
-	background: #fff;
-	padding: 10%;
 }
 
 .btn-warning{
