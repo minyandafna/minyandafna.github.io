@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 meta:
   site_title: "Minyan Dafna"
-  site_subtitle: "A new independent minyan in Berkeley"
+  site_subtitle: "Berkeley Independent Minyan"
   site_language: "en"
 permalink: pretty
 bower: bower_components/
