@@ -33,6 +33,17 @@ transform: rotateY(180deg);
 /* flip speed goes here */
 .flipper {
 }
+/* magic image sauce */
+			.flipper img{
+			width:100%;
+			height:auto;
+			display:block;
+			margin:0;
+			}
+
+.flipper .fake-image{
+			visibility: hidden;
+			}
 
 /* hide back of pane during swap */
 .ffront, .fback {

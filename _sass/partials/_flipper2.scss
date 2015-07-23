@@ -1,0 +1,103 @@
+
+			.flipper{
+		    height: auto;
+		    float: left;
+			position:relative;
+			-webkit-perspective:800px;
+			   -moz-perspective:800px;
+			    -ms-perspective:800px;
+			     -o-perspective:800px;
+			        perspective:800px;
+			}
+		/*	@media screen and (min-width: 1280px) {
+				.flip-item-wrap{
+				width: 16.6%;
+				}
+			}
+			@media screen and (max-width: 979px) {
+				.flip-item-wrap{
+				width: 33.3%;
+				}
+			}
+			@media screen and (max-width: 639px) {
+				.flip-item-wrap{
+				width: 50%;
+				}
+			}
+			@media screen and (max-width: 379px) {
+				.flip-item-wrap{
+				width: 100%;
+				}
+			}*/
+			.flipper img{
+			width:100%;
+			height:auto;
+			display:block;
+			margin:0;
+			}
+		/*	.flip-item-wrap input{
+			display: none;
+			}*/
+			.flipper .fake-image{
+			visibility: hidden;
+			}
+			.flipper-item{
+			display: block;
+			width:100%;
+			height:100%;
+			float:left;
+			position:absolute;
+			top:0;
+			left:0;
+			cursor:pointer;
+			color:#fff;
+			-webkit-transform-style:preserve-3d;
+			   -moz-transform-style:preserve-3d;
+			    -ms-transform-style:preserve-3d;
+			     -o-transform-style:preserve-3d;
+			        transform-style:preserve-3d;
+			-webkit-transition:-webkit-transform 1s;
+			   -moz-transition:   -moz-transform 1s;
+			     -o-transition:     -o-transform 1s;
+			        transition:        transform 1s;
+			}
+			.flipper-item figure{
+			display:block;
+			position:absolute;
+			width:100%;
+			height:100%;
+			margin:0;
+			-webkit-backface-visibility:hidden;
+			   -moz-backface-visibility:hidden;
+			    -ms-backface-visibility:hidden;
+			     -o-backface-visibility:hidden;
+			        backface-visibility:hidden;
+			}
+			.flipper-item .fback{
+			width:100%;
+			display:block;
+        background: gray;
+			margin:0;
+			-webkit-transform:rotateY( 180deg );
+			   -moz-transform:rotateY( 180deg );
+			    -ms-transform:rotateY( 180deg );
+			     -o-transform:rotateY( 180deg );
+			        transform:rotateY( 180deg );
+			}
+			.flipper-item:hover{
+			-webkit-transform:rotateY( 180deg );
+			   -moz-transform:rotateY( 180deg );
+			    -ms-transform:rotateY( 180deg );
+			     -o-transform:rotateY( 180deg );
+			        transform:rotateY( 180deg );
+			}
+
+.ffront span{
+    display: block;
+    position: absolute;
+    top: 80%;
+    background: rgba(0,0,0,.5);
+    color: rgba(255,255,255,.95);
+    width: 100%;
+    padding: 1%;
+}

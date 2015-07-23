@@ -2,3 +2,4 @@ config.codekit
 _site
 js/vendor.js
 .sass-cache
+flipper_test.html
