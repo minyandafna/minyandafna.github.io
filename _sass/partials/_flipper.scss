@@ -1,0 +1,114 @@
+/* Code for Flipper */
+
+/* flip the pane when hovered */
+.flipper:hover .ffront, .flipper.hover .ffront {
+/*-webkit-transform: rotateY(180deg);
+-moz-transform: rotateY(180deg);
+transform: rotateY(180deg);
+filter: FlipH;
+-ms-filter: "FlipH";*/
+z-index: 1;
+-webkit-transform: rotateY(180deg);
+-ms-transform: rotateY(180deg);
+-moz-transform: rotateY(180deg);
+transform: rotateY(180deg);
+
+	}
+
+	 .flipper:hover .fback, .flipper.hover .fback {
+
+    z-index: 2;
+    -webkit-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+}
+
+
+/*.flip-container, .ffront, .fback {
+	width: 150px;
+	height: 150px;
+}*/
+
+/* flip speed goes here */
+.flipper {
+}
+
+/* hide back of pane during swap */
+.ffront, .fback {
+
+/*			-webkit-transition: 0.6s;
+			-webkit-transform-style: preserve-3d;
+
+			-moz-transition: 0.6s;
+			-moz-transform-style: preserve-3d;
+
+			transition: 0.6s;
+			transform-style: preserve-3d;
+
+			position: relative;
+
+
+-webkit-backface-visibility: hidden;
+-moz-backface-visibility: hidden;
+backface-visibility: hidden;
+
+	position: absolute;
+	top: 0;
+	left: 0;*/
+width: 100%;
+height: 100%;
+-o-transition: all .5s;
+-ms-transition: all .5s;
+-moz-transition: all .5s;
+-webkit-transition: all .5s;
+transition: all .5s;
+-webkit-backface-visibility: hidden;
+-ms-backface-visibility: hidden;
+-moz-backface-visibility: hidden;
+backface-visibility: hidden;
+position: absolute;
+top: 0px;
+left: 0px;
+
+}
+
+/* front pane, placed above back */
+.ffront {
+	z-index: 2;
+}
+
+/* back, initially hidden pane */
+.fback {
+z-index: 1;
+/*	transform: rotateY(180deg);
+-webkit-transform: rotateY(180deg);
+-moz-transform: rotateY(180deg);
+transform: rotateY(180deg);*/
+
+-webkit-transform: rotateY(-180deg);
+-ms-transform: rotateY(-180deg);
+-moz-transform: rotateY(-180deg);
+transform: rotateY(-180deg);
+
+
+background: #292929;
+color: #fff;
+text-align: center;
+
+
+}
+
+.fback h3,.fback p{
+	padding: 5px;
+}
+
+.fback h3{
+	margin-top: 50px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.fback p{
+	font-size: 14px;
+}
