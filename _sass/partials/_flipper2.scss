@@ -73,7 +73,11 @@
 			     -o-backface-visibility:hidden;
 			        backface-visibility:hidden;
 			}
+.flipper-item .ffront{
+  z-index: 2;
+}
 			.flipper-item .fback{
+        z-index: 1;
 			width:100%;
 			display:block;
         background: gray;
@@ -84,7 +88,7 @@
 			     -o-transform:rotateY( 180deg );
 			        transform:rotateY( 180deg );
 			}
-			.flipper-item:hover{
+			.flipper-item:hover, .flipper-item.hover{
 			-webkit-transform:rotateY( 180deg );
 			   -moz-transform:rotateY( 180deg );
 			    -ms-transform:rotateY( 180deg );
