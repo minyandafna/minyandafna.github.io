@@ -30,8 +30,16 @@
   }
 }
 
+.navbar-brand.navbar-light{
+display: none !important;
+}
+
 .navbar-light{
-	display: none !important;
+//	display: none !important;
+}
+
+.navbar-nav{
+  background: $mdgray;
 }
 
 .navbar .nav > li > a, .navbar .navbar-brand{
