@@ -4,6 +4,7 @@ meta:
   site_subtitle: "Berkeley Independent Minyan"
   site_language: "en"
 permalink: pretty
+markdown: kramdown
 bower: bower_components/
 timezone: America/Los_Angeles
 sass:
