@@ -1,4 +1,7 @@
-new cbpScroller(document.getElementById('cbp-so-scroller'));
+if (document.querySelector('.cbp-so-scroller') !== null) {
+  new cbpScroller(document.getElementById('cbp-so-scroller'));
+}
+
 
 function parallax() {
   var scrollPosition = $(window).scrollTop();
