@@ -2,8 +2,8 @@
 title: Friday Night Davening
 layout: post
 event-allday: false
-event-start: 2015-07-07 18:30:00
-event-end: 2015-07-07 20:00:00
+event-start: 2015-08-07 18:30:00
+event-end: 2015-08-07 20:00:00
 event-time: "6:30 pm"
 type: event
 event-venue: TBD
