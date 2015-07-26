@@ -2,8 +2,8 @@
 title: Shabbat Morning Minyan
 layout: post
 event-allday: false
-event-start: 2015-07-11 09:30:00
-event-end: 2015-07-11 12:30:00
+event-start: 2015-08-22 09:30:00
+event-end: 2015-08-22 12:00:00
 event-time: "9:30 am"
 type: event
 event-venue: Congregation Netivot Shalom
@@ -16,6 +16,8 @@ tags:
   - davening
 ---
 
-We're meeting two weeks in a row in July! Join us for another installment of spirited traditional egalitarian davening. We will meet at Netivot Shalom in the Art Room. Davening will be followed by a kiddush and home hospitality is available for Shabbat lunch. 
+Please join us for our traditional egalitarian Shabbat morning service. We will be meeting in a second-floor classroom in the Netivot Shalom building.
 
-Looking forward to seeing you there. Please let us know if you have any questions - email [info at minyandafna . org](javascript:void&#40;location.href=)
+Davening will be followed by a kiddush and home hospitality is available for Shabbat lunch.
+
+Looking forward to seeing you there.
