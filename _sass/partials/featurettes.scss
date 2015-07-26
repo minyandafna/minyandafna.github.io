@@ -31,7 +31,7 @@
   background: $mdgreen;
    .cbp-so-side-left{
     a{
-      color: #ccc;
+      color: $mdgray;
       &:hover{
         color: $mdbrown;
        }
@@ -56,7 +56,7 @@ background: rgba($mdbrown,.25);
   background-color: $mdgreen;
   .cbp-so-side-left{
     a{
-      color: #ccc;
+      color: $mdgray;
       &:hover{
         color: $mdbrown;
        }
