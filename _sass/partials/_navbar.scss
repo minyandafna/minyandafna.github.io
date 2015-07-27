@@ -30,13 +30,20 @@
   }
 }
 
+.navbar-brand{
+  padding: 0 0 0 20px;
+  img{
+      height: 100%;
+  }
+}
+
 .navbar-brand.navbar-light{
 display: none !important;
 }
 
-.navbar-light{
+//.navbar-light{
 //	display: none !important;
-}
+//}
 
 .navbar-nav{
   background: $mdgray;
