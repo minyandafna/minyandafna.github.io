@@ -18,6 +18,8 @@ tags:
 
 Please join us for our traditional egalitarian Shabbat morning service. We will be meeting in a second-floor classroom in the Netivot Shalom building.
 
-Davening will be followed by a kiddush and home hospitality is available for Shabbat lunch.
+Davening will be followed by a kiddush and a picnic in the park for Shabbat lunch!
 
 Looking forward to seeing you there.
+
+Kiddush and picnic lunch sponsored by [Moishe House Without Walls](http://www.mhwow.org)
