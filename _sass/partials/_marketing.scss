@@ -48,3 +48,12 @@
     padding-bottom: 20px;
   }
 }
+
+#holidays-nav{
+  background: #fff;
+  width: 200px;
+
+  &.affix{
+  top: 100px;
+  }
+}

@@ -1,7 +1,5 @@
----
-layout: holidayl
-title: High Holidays 2015/5776
----
+## High Holidays 2015/5776
+{: .featurette-heading}
 
 On Rosh Hashanah, the world was conceived, Sarah first conceived as an elderly woman, and we are given the opportunity to renew ourselves spiritually. This year, Minyan Dafna will hold its first High Holiday services, coming together on the mornings of Rosh Hashanah and Yom Kippur to pray, sing, read, learn, and repent. All are welcome for traditional, egalitarian, and spirited davening.
 
@@ -48,3 +46,4 @@ If you would like to attend a Rosh Hashana lunch (following services), please em
 ### Questions
 
 Email highholidays@minyandafna.org with any other questions. Shana Tova!
+      
