@@ -45,5 +45,5 @@ If you would like to attend a Rosh Hashana lunch (following services), please em
 
 ### Questions
 
-Email highholidays@minyandafna
+Email highholidays@minyandafna.org with any other questions. Shana Tova!
       
