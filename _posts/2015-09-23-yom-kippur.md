@@ -21,6 +21,6 @@ tags:
 
 Minyan Dafna is excited to announce that we will be having morning services during both days of Rosh Hashana and on Yom Kippur! 
 
-We will be meeting in the Upstairs Meeting Room at Finnish Hall located at 1970 Chestnut St. Join us for spirited traditional egalitarian davening led by members of our growing community.
+We will be meeting downstairs at Finnish Hall located at 1970 Chestnut St. Join us for spirited traditional egalitarian davening led by members of our growing community.
 
 More details will be forthcoming. If you would like to participate in the services, read Torah, or volunteer in any other way, please email highholidays@minyandafna.org.
