@@ -19,7 +19,7 @@ In the afternoon of the first day of Rosh Hashana, we will gather at 4:00 pm for
 
 ### Location
 
-We will be meeting on Rosh Hashana in the Upstairs Meeting Room at Finnish Hall. On Yom Kippur, we will be meeting *downstairs* at Finnish Hall.
+We will be meeting on Rosh Hashana in the Upstairs Meeting Room at Finnish Hall. On Yom Kippur, we will be meeting **downstairs** at Finnish Hall.
 
 Finnish Hall is located at 1970 Chestnut St. in Berkeley.
 
