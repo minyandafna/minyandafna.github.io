@@ -2,12 +2,12 @@
 title: Friday Night Davening
 layout: post
 event-allday: false
-event-start: 2015-10-16 18:00:00
-event-end: 2015-10-16 20:30:00
-event-time: "6:00 pm"
+event-start: 2015-10-16 18:30:00
+event-end: 2015-10-16 20:00:00
+event-time: "6:30 pm"
 type: event
-event-venue: To Be Announced
-event-address: ""
+event-venue: Edah Berkeley
+event-address: "2121 Bonar St., Berkeley"
 event-website: ""
 event-action: ""
 event-action-url: ""
