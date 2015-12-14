@@ -6,8 +6,8 @@ event-start: 2015-12-18 18:00:00
 event-end: 2015-12-18 19:30:00
 event-time: "6:00 pm"
 type: event
-event-venue: Congregation Netivot Shalom
-event-address: "1316 University Avenue, Berkeley, CA 94702"
+event-venue: Edah Berkeley
+event-address: "2121 Bonar St., Unit G, Berkeley, CA 94702"
 event-website: ""
 event-action: ""
 event-action-url: ""
