@@ -2,12 +2,12 @@
 title: Friday Night Davening
 layout: post
 event-allday: false
-event-start: 2015-12-18 18:00:00
-event-end: 2015-12-18 19:30:00
-event-time: "6:00 pm"
+event-start: 2015-12-18 18:30:00
+event-end: 2015-12-18 20:00:00
+event-time: "6:30 pm"
 type: event
-event-venue: Edah Berkeley
-event-address: "2121 Bonar St., Unit G, Berkeley, CA 94702"
+event-venue: Congregation Netivot Shalom
+event-address: "1316 University Avenue, Berkeley, CA 94702"
 event-website: ""
 event-action: ""
 event-action-url: ""
@@ -17,4 +17,4 @@ tags:
   - friday
 ---
 
-Join us for uplifting Erev Shabbat davening, and then head to dinner at a community member's house. Interested in hosting, davening, or giving a drash (for now or for the future)? [Let us know!](mailto:info@minyandafna.org)
+Join us for uplifting Erev Shabbat davening, the final one in 2015. Interested in attending a Shabbat dinner? Please [fill out this form](http://goo.gl/forms/Nldy9ZlLJy).
