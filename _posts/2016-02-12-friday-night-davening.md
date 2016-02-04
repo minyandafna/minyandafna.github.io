@@ -4,10 +4,10 @@ layout: post
 event-allday: false
 event-start: 2016-02-12 18:00:00
 event-end: 2016-02-12 19:30:00
-event-time: "6:00 pm"
+event-time: "6:30 pm"
 type: event
-event-venue: TBD
-event-address: ""
+event-venue: Edah Berkeley
+event-address: "2121 Bonar St., Berkeley"
 event-website: ""
 event-action: ""
 event-action-url: ""
@@ -17,4 +17,4 @@ tags:
   - friday
 ---
 
-Join us for uplifting Erev Shabbat davening, and then head to dinner at a community member's house. Interested in hosting, davening, or giving a drash (for now or for the future)? [Let us know!](mailto:info@minyandafna.org)
+Join us for uplifting Erev Shabbat davening at Edah. Interested in hosting, davening, or giving a drash (for now or for the future)? [Let us know!](mailto:info@minyandafna.org)
