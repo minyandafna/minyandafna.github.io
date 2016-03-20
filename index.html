@@ -15,6 +15,17 @@ title: Minyan Dafna
 
   <hr class="featurette-divider">
 
+  <div id="shabbaton" class="featurette cbp-so-section" >
+     <div class="container marketing">
+  {% capture shabbaton %}{% include shabbaton.md %}{% endcapture %}
+   {{ shabbaton | markdownify }}
+     </div><!-- /.container .marketing -->
+ </div><!--  /#shabbaton  -->
+
+
+   <hr class="featurette-divider">
+
+
 {% include contact.html %}
   <hr class="featurette-divider">
   <!-- /END THE FEATURETTES -->
