@@ -6,7 +6,7 @@ event-start: 2016-05-20 18:00:00
 event-end: 2016-05-22 12:30:00
 event-time: "All Weekend"
 type: event
-event-venue: Across Berkeley
+event-venue: Netivot Shalom (and other places around Berkeley)
 event-address: "1316 University Avenue, Berkeley, CA 94702"
 event-website: ""
 event-action: "Register Now"
