@@ -2,3 +2,5 @@ config.codekit
 _site
 js/vendor.js
 .sass-cache
+
+.DS_Store
