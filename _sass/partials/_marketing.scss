@@ -58,3 +58,11 @@
   top: 100px;
   }
 }
+
+.btn-primary{
+  background-color: $mdgreen;
+  &:hover{
+    background-color: $mdbrown;
+  }
+}
+
