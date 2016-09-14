@@ -5,10 +5,9 @@ Minyan Dafna will be holding spirited and songful Yamim Noraim (High Holidays) s
 
 **This year, we are delighted that Rabbi Maya Resnikoff will be joining us as our Rabbi in Residence for Rosh Hashana and Yom Kippur.** 
 
-Services are free, but a donation of $18 per day or $36 for both Rosh Hashana and Yom Kippur will help us defray the costs of space rental.
+Services are free, but a [donation](https://donorbox.org/minyan-dafna-high-holidays) of $18 per day or $36 for both Rosh Hashana and Yom Kippur will help us defray the costs of space rental.
 
-<script src="https://donorbox.org/install-popup-button.js" type="text/javascript" defer></script>
-<a class="dbox-donation-button" href="https://donorbox.org/minyan-dafna-high-holidays" style="background:#79B988; color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 13px 17px 13px 17px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; box-shadow: 0 1px 0 0 #54815f; text-shadow: 0 1px rgba(0, 0, 0, 0.3);" >Donate Here</a>
+<a href="https://donorbox.org/minyan-dafna-high-holidays" target="_blank" class="btn btn-primary">Donate Here</a>
  
 We hope you will bring your friends and family! Shana Tova!
 
