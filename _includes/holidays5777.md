@@ -1,7 +1,7 @@
 ## High Holidays 2016/5777
 {: .featurette-heading}
 
-Minyan Dafna will be holding spirited and songful Yamim Noraim (High Holidays) services again this year in Berkeley. Join us for traditional-egalitarian davening, lead by community memebers.
+Minyan Dafna will be holding spirited and songful Yamim Noraim (High Holidays) services again this year in Berkeley. Join us for traditional-egalitarian davening, lead by community members.
 
 **This year, we are delighted that Rabbi Maya Resnikoff will be joining us as our Rabbi in Residence for Rosh Hashana and Yom Kippur.** 
 
