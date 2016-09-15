@@ -9,8 +9,8 @@ type: event
 event-venue: Finnish Hall
 event-address: "1970 Chestnut Street, Berkeley, CA 94702"
 event-website: ""
-event-action: ""
-event-action-url: ""
+event-action: "Donate"
+event-action-url: "https://donorbox.org/minyan-dafna-high-holidays"
 tags:
   - high holidays
   - davening
