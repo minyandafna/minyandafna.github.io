@@ -3,7 +3,7 @@
 
 Minyan Dafna will be holding spirited and songful Yamim Noraim (High Holidays) services again this year in Berkeley. Join us for traditional-egalitarian davening, lead by community members.
 
-**This year, we are delighted that Rabbi Maya Resnikoff will be joining us as our Rabbi in Residence for Rosh Hashana and Yom Kippur.** 
+**This year, we are delighted that [Rabbi Maya Resnikoff](/#rabbi-maya) will be joining us as our Rabbi in Residence for Rosh Hashana and Yom Kippur.** 
 
 Services are free, but a [donation](https://donorbox.org/minyan-dafna-high-holidays) of $18 per day or $36 for both Rosh Hashana and Yom Kippur will help us defray the costs of space rental.
 
@@ -47,6 +47,11 @@ There are many opportunities for participation in High Holiday services. Aside f
 ### Hospitality
 
 If you would like to attend a Rosh Hashana lunch (following services), please email highholidays@minyandafna.org, and we will set you up with a member of the community.
+
+### Rabbi in Residence
+{: #rabbi-maya}
+
+We are very excited to be joined by Rabbi Maya Resnikoff for Yamim Noraim this year! Rabbi Maya attended Brandeis University, where she graduated in 2006 with a major in Near Eastern and Judaic Studies. She continued her studies at the Jewish Theological Seminary, where she was ordained as a rabbi in 2012, with a concentration in Talmud and Halakha. She is a trained chaplain, and completed her Clinical Pastoral Education residency at Lutheran Medical Center in Brooklyn, NY. She writes two blogs, one on Jewish head coverings and the other surveying synagogues' preparation for the needs of breastfeeding parents and very young children. Here in the Bay Area, she has interned with Bechol Lashon. She lives in Riverdale, NY with her husband, Haggai, and daughter, Sarah Yocheved.
 
 
 ### Questions
