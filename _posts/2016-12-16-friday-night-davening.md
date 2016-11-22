@@ -2,8 +2,8 @@
 title: Friday Night Davening
 layout: post
 event-allday: false
-event-start: 2016-11-18 18:30:00
-event-end: 2016-11-18 19:30:00
+event-start: 2016-12-16 18:30:00
+event-end: 2016-12-16 19:30:00
 event-time: "6:30 pm"
 type: event
 event-venue: Edah
