@@ -1,21 +1,22 @@
 ---
 title: Shabbat Morning Minyan with Children's Program
+date: 2016-12-17 00:00:00 -08:00
+tags:
+- shabbat
+- davening
+- families
+- children
 layout: post
 event-allday: false
-event-start: 2016-12-17 09:30:00
-event-end: 2016-12-17 12:30:00
-event-time: "9:30 am"
+event-start: 2016-12-17 01:30:00 -08:00
+event-end: 2016-12-17 04:30:00 -08:00
+event-time: 9:30 am
 type: event
 event-venue: Edah
-event-address: "2121 Bonar St., Unit G, Berkeley"
-event-website: ""
-event-action: ""
-event-action-url: ""
-tags:
-  - shabbat
-  - davening
-  - families
-  - children
+event-address: 2121 Bonar St., Unit G, Berkeley
+event-website: ''
+event-action: ''
+event-action-url: ''
 ---
 
 This year, once a month Minyan Dafna will have children's programming.

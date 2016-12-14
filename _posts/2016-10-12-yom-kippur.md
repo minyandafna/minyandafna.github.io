@@ -1,22 +1,23 @@
 ---
 title: Yom Kippur
+date: 2016-10-12 00:00:00 -07:00
+tags:
+- high holidays
+- davening
+- rosh hashana
+- new year
+- finnish hall
 layout: post
 event-allday: false
-event-start: 2016-10-12 09:00:00
-event-end: 2016-10-12 13:00:00
-event-time: "9:00 am"
+event-start: 2016-10-12 02:00:00 -07:00
+event-end: 2016-10-12 06:00:00 -07:00
+event-time: 9:00 am
 type: event
 event-venue: Finnish Hall
-event-address: "1970 Chestnut Street, Berkeley, CA 94702"
-event-website: ""
-event-action: "Donate"
-event-action-url: "https://donorbox.org/minyan-dafna-high-holidays"
-tags:
-  - high holidays
-  - davening
-  - rosh hashana
-  - new year
-  - finnish hall
+event-address: 1970 Chestnut Street, Berkeley, CA 94702
+event-website: ''
+event-action: Donate
+event-action-url: https://donorbox.org/minyan-dafna-high-holidays
 ---
 
 Minyan Dafna will be holding spirited and songful Yamim Noraim (High Holidays) services again this year in Berkeley. This year, we are delighted that Rabbi Maya Resnikoff will be joining us as our Rabbi in Residence for Rosh Hashana and Yom Kippur.

@@ -1,22 +1,23 @@
 ---
-title: "Shabbat with Rabbi Dr. Zev Farber"
-layout: post
-event-allday: false
-event-start: 2014-03-28 18:30:00
-event-end: 2014-03-28 21:30:00
-event-time: "6:30 pm"
-type: event
-event-venue: Nacron Chapel, Beth Torah Benny Rok Campus
-event-address: 20350 NE 26th Ave, North Miami Beach, FL 33080
-event-website: http://shabbatdinner.bpt.me
-event-action: Sign up for tickets
-event-action-url: http://shabbatdinner.bpt.me
+title: Shabbat with Rabbi Dr. Zev Farber
+date: 2014-03-28 00:00:00 -07:00
 tags:
 - shabbat
 - davening
 - dinner
 - learning
 - guest speaker
+layout: post
+event-allday: false
+event-start: 2014-03-28 11:30:00 -07:00
+event-end: 2014-03-28 14:30:00 -07:00
+event-time: 6:30 pm
+type: event
+event-venue: Nacron Chapel, Beth Torah Benny Rok Campus
+event-address: 20350 NE 26th Ave, North Miami Beach, FL 33080
+event-website: http://shabbatdinner.bpt.me
+event-action: Sign up for tickets
+event-action-url: http://shabbatdinner.bpt.me
 ---
 
 We are excited to welcome Rabbi Dr. Zev Farber as our special guest for our Shabbat celebration this month! 

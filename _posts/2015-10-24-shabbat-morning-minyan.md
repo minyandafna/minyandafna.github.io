@@ -1,19 +1,20 @@
 ---
 title: Shabbat Morning Minyan
+date: 2015-10-24 00:00:00 -07:00
+tags:
+- shabbat
+- davening
 layout: post
 event-allday: false
-event-start: 2015-10-24 09:30:00
-event-end: 2015-10-24 12:30:00
-event-time: "9:30 am"
+event-start: 2015-10-24 02:30:00 -07:00
+event-end: 2015-10-24 05:30:00 -07:00
+event-time: 9:30 am
 type: event
 event-venue: Congregation Netivot Shalom
-event-address: "1316 University Avenue, Berkeley, CA 94702"
-event-website: ""
-event-action: ""
-event-action-url: ""
-tags:
-  - shabbat
-  - davening
+event-address: 1316 University Avenue, Berkeley, CA 94702
+event-website: ''
+event-action: ''
+event-action-url: ''
 ---
 
 Please join us for our traditional egalitarian Shabbat morning service. We will be meeting in a second-floor classroom in the Netivot Shalom building.
