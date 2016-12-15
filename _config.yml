@@ -1,5 +1,5 @@
 ---
-title: Minyandafna.Github.Io
+title: Minyan Dafna
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -7,6 +7,9 @@ collections:
     output: true
   uploads:
     title: Uploads
+    output: true
+  events:
+    title: Events
     output: true
 name: Minyan Dafna
 meta:
