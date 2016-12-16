@@ -4,17 +4,17 @@ date: 2015-08-22 00:00:00 -07:00
 tags:
 - shabbat
 - davening
-layout: post
-event-allday: false
-event-start: 2015-08-22 02:30:00 -07:00
-event-end: 2015-08-22 05:00:00 -07:00
-event-time: 9:30 am
-type: event
-event-venue: Congregation Netivot Shalom
-event-address: 1316 University Avenue, Berkeley, CA 94702
-event-website: ''
-event-action: ''
-event-action-url: ''
+layout: event
+allday: false
+start: 2015-08-22 02:30:00 -07:00
+end: 2015-08-22 05:00:00 -07:00
+time: 9:30 am
+
+venue: Congregation Netivot Shalom
+address: 1316 University Avenue, Berkeley, CA 94702
+website: ''
+action: ''
+action-url: ''
 ---
 
 Please join us for our traditional egalitarian Shabbat morning service. We will be meeting in a second-floor classroom in the Netivot Shalom building.

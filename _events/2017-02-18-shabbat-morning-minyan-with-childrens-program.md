@@ -6,17 +6,12 @@ tags:
 - davening
 - families
 - children
-layout: post
-event-allday: false
-event-start: 2017-02-18 01:30:00 -08:00
-event-end: 2017-02-18 04:30:00 -08:00
-event-time: 9:30 am
-type: event
-event-venue: Edah
-event-address: 2121 Bonar St., Unit G, Berkeley
-event-website: ''
-event-action: ''
-event-action-url: ''
+layout: event
+allday: false
+end-date: 2017-02-18 04:30:00 -08:00
+time: 9:30 am
+venue: Edah
+address: 2121 Bonar St., Unit G, Berkeley
 ---
 
 This year, once a month Minyan Dafna will have children's programming.

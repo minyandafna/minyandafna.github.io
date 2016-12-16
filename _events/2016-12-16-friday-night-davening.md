@@ -5,16 +5,16 @@ tags:
 - shabbat
 - davening
 - friday
-event-allday: false
-event-start: 2016-12-16 10:30:00 -08:00
-event-end: 2016-12-16 13:30:00 -08:00
-event-time: 6:30 pm
-type: event
-event-venue: Edah
-event-address: 2121 Bonar St., Berkeley
-event-action: RSVP for Shabbat Dinner!
-event-action-url: https://goo.gl/ykHtHs
-layout: post
+allday: false
+start: 2016-12-16 10:30:00 -08:00
+end: 2016-12-16 13:30:00 -08:00
+time: 6:30 pm
+
+venue: Edah
+address: 2121 Bonar St., Berkeley
+action: RSVP for Shabbat Dinner!
+action-url: https://goo.gl/ykHtHs
+layout: event
 ---
 
 Minyan Dafna's partnership with Studio 70/[Edah](http://www.edahcommunity.org) continues for another Friday night davening! Join us for davening and a potluck this Friday night!

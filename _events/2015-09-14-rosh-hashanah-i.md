@@ -7,17 +7,17 @@ tags:
 - rosh hashana
 - new year
 - finnish hall
-layout: post
-event-allday: false
-event-start: 2015-09-14 02:00:00 -07:00
-event-end: 2015-09-14 06:00:00 -07:00
-event-time: 9:00 am
-type: event
-event-venue: Finnish Hall
-event-address: 1970 Chestnut Street, Berkeley, CA 94702
-event-website: ''
-event-action: ''
-event-action-url: ''
+layout: event
+allday: false
+start: 2015-09-14 02:00:00 -07:00
+end: 2015-09-14 06:00:00 -07:00
+time: 9:00 am
+
+venue: Finnish Hall
+address: 1970 Chestnut Street, Berkeley, CA 94702
+website: ''
+action: ''
+action-url: ''
 ---
 
 Minyan Dafna is excited to announce that we will be having morning services during both days of Rosh Hashana and on Yom Kippur! 
