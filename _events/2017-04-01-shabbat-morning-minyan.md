@@ -4,17 +4,12 @@ date: 2017-04-01 00:00:00 -07:00
 tags:
 - shabbat
 - davening
-layout: post
-event-allday: false
-event-start: 2017-04-01 02:30:00 -07:00
-event-end: 2017-04-01 05:30:00 -07:00
-event-time: 9:30 am
-type: event
-event-venue: Congregation Netivot Shalom
-event-address: 1316 University Avenue, Berkeley, CA 94702
-event-website: ''
-event-action: ''
-event-action-url: ''
+layout: event
+allday: false
+end-date: 2017-04-01 05:30:00 -07:00
+time: 9:30 am
+venue: Congregation Netivot Shalom
+address: 1316 University Avenue, Berkeley, CA 94702
 ---
 
 Please join us for our traditional egalitarian Shabbat morning service. We will be meeting in the Art Room upstairs in the Netivot Shalom building.
