@@ -1,22 +1,19 @@
 ---
-layout: nil
 ---
 
 [
 {% assign first = true %}
-{% for post in site.posts %}
-  {% if post.type %}  
+{% for event in site.events %}
     {% if first == false %},{% endif %}
     {% if first == true %}{% assign first = false %}{% endif %}
   {
-    "title"    : "{{ post.title | xml_escape }}",
-    "date"   : "{{ post.event-start | date: "%Y-%m-%d"}}",
-    "time"  : "{{ post.event-time }}",
-    "venue"   : "{{ post.event-venue }}",
-    "address" : "{{ post.event-address }}",
-    "link" : "{{ post.event-website }}",
-    "url"     : "{{ post.url }}"
+    "title"    : "{{ event.title | xml_escape }}",
+    "date"   : "{{ event.date | date: "%Y-%m-%d"}}",
+    "time"  : "{{ event.time }}",
+    "venue"   : "{{ event.venue }}",
+    "address" : "{{ event.address }}",
+    "link" : "{{ event.website }}",
+    "url"     : "{{ event.url }}"
   }
-  {% endif %}
 {% endfor %}
 ]
