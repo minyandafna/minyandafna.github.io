@@ -1,6 +1,6 @@
 ---
 title: Shabbat Morning Minyan with Children's Program
-date: 2017-05-29 00:00:00 -07:00
+date: 2017-05-20 00:00:00 -07:00
 tags:
 - shabbat
 - davening
@@ -8,7 +8,7 @@ tags:
 - children
 layout: event
 allday: false
-end-date: 2017-05-29 05:30:00 -07:00
+end-date: 2017-05-20 05:30:00 -07:00
 time: 9:30 am
 venue: Edah
 address: 2121 Bonar St., Unit G, Berkeley
