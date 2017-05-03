@@ -1,15 +1,15 @@
 ---
 title: Friday Night Davening
-date: 2017-07-28 00:00:00 -07:00
+date: 2017-08-25 00:00:00 -07:00
 tags:
 - shabbat
 - davening
 - friday
 layout: event
 allday: false
-end-date: 2017-07-28 12:30:00 -07:00
+end-date: 2017-08-25 12:30:00 -07:00
 time: 6:30 pm
-venue: TBA
+venue: 
 address: 
 ---
 

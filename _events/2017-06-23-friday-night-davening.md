@@ -9,7 +9,7 @@ layout: event
 allday: false
 end-date: 2017-06-23 12:30:00 -07:00
 time: 6:30 pm
-venue: TBA
+venue: 
 address: 
 ---
 
