@@ -9,7 +9,6 @@ allday: false
 start: 2016-07-23 02:30:00 -07:00
 end: 2016-07-23 05:30:00 -07:00
 time: 9:30 am
-
 venue: Congregation Netivot Shalom
 address: 1316 University Avenue, Berkeley, CA 94702
 website: ''

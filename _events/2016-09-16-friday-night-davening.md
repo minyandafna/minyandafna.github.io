@@ -10,7 +10,6 @@ allday: false
 start: 2016-09-16 11:30:00 -07:00
 end: 2016-09-16 15:00:00 -07:00
 time: 6:30 pm
-
 venue: 
 address: 2808 Ellsworth Ave, Berkeley, CA
 action: Contribute to the Potluck Dinner

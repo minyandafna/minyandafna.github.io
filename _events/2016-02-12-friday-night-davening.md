@@ -10,7 +10,6 @@ allday: false
 start: 2016-02-12 10:00:00 -08:00
 end: 2016-02-12 11:30:00 -08:00
 time: 6:30 pm
-
 venue: Edah Berkeley
 address: 2121 Bonar St., Berkeley
 website: ''

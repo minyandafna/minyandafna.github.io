@@ -10,7 +10,6 @@ allday: false
 start: 2015-11-20 10:00:00 -08:00
 end: 2015-08-07 13:00:00 -07:00
 time: 6:00 pm
-
 venue: To Be Announced
 address: ''
 website: ''

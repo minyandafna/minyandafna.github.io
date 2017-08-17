@@ -9,7 +9,6 @@ allday: false
 start: 2016-09-03 02:30:00 -07:00
 end: 2016-09-03 05:30:00 -07:00
 time: 9:30 am
-
 venue: Finnish Hall
 address: 1970 Chestnut Street, Berkeley, CA 94702
 website: ''
