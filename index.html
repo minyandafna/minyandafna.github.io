@@ -15,6 +15,16 @@ layout: default
 
   <hr class="featurette-divider">
 
+ <div id="holidays" class="featurette cbp-so-section" >
+     <div class="container marketing">
+  {% capture holidays5778 %}{% include holidays5778.md %}{% endcapture %}
+   {{ holidays5778 | markdownify }}
+     </div><!-- /.container .marketing -->
+ </div><!--  /#holidays5778  -->
+
+
+   <hr class="featurette-divider">
+
 {% include contact.html %}
   <hr class="featurette-divider">
   <!-- /END THE FEATURETTES -->
