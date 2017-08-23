@@ -9,7 +9,6 @@ allday: false
 start: 2016-12-16 10:30:00 -08:00
 end: 2016-12-16 13:30:00 -08:00
 time: 6:30 pm
-
 venue: Edah
 address: 2121 Bonar St., Berkeley
 action: RSVP for Shabbat Dinner!

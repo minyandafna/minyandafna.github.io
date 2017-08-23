@@ -2,14 +2,14 @@
 title: Minyan Dafna
 timezone: America/Los_Angeles
 collections:
+  events:
+    title: Events
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
-    output: true
-  events:
-    title: Events
     output: true
 name: Minyan Dafna
 meta:

@@ -10,7 +10,6 @@ allday: false
 start: 2016-06-03 11:30:00 -07:00
 end: 2015-06-03 13:00:00 -07:00
 time: 6:30 pm
-
 venue: 
 address: ''
 action: ''

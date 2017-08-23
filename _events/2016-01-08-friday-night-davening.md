@@ -10,7 +10,6 @@ allday: false
 start: 2016-01-08 10:00:00 -08:00
 end: 2016-01-08 11:30:00 -08:00
 time: 6:00 pm
-
 venue: TBD
 address: ''
 website: ''

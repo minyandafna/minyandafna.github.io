@@ -11,7 +11,6 @@ allday: false
 start: 2016-03-19 02:30:00 -07:00
 end: 2016-03-19 05:30:00 -07:00
 time: 9:30 am
-
 venue: Edah Berkeley
 address: 2121 Bonar St., Unit G, Berkeley
 website: ''

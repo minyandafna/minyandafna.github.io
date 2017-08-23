@@ -13,7 +13,6 @@ allday: false
 start: 2016-05-20 11:00:00 -07:00
 end: 2016-05-22 05:30:00 -07:00
 time: All Weekend
-
 venue: Netivot Shalom (and other places around Berkeley)
 address: 1316 University Avenue, Berkeley, CA 94702
 website: ''
