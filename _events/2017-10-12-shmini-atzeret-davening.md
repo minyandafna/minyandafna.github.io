@@ -1,12 +1,12 @@
 ---
 title: Shmini Atzeret Davening
-date: 2017-10-12 00:09:30 -08:00
+date: 2017-10-12 01:09:30 -07:00
 tags:
 - shabbat
 - davening
 layout: event
 allday: false
-end-date: 2017-10-12 12:00:00 -08:00
+end-date: 2017-10-12 13:00:00 -07:00
 time: 9:30 am
 venue: Congregation Netivot Shalom
 address: 1316 University Avenue, Berkeley, CA 94702
