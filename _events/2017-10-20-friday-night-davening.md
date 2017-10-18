@@ -8,7 +8,7 @@ tags:
 layout: event
 allday: false
 end-date: 2017-10-20 20:00:00 -07:00
-time: 7:00 pm
+time: 6:30 pm
 venue: Massarano's Home
 address: 1709 Sacramento Street, Berkeley, CA 94702
 ---
