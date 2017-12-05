@@ -1,5 +1,5 @@
 ---
-title: Shabbat Morning Davening
+title: Shabbat Morning Davening: Bat Mitzvah of Fanya Fenton
 date: 2017-12-09 00:09:30 -08:00
 tags:
 - shabbat
@@ -8,12 +8,14 @@ layout: event
 allday: false
 end-date: 2017-12-09 12:00:00 -08:00
 time: 9:30 am
-venue: Congregation Netivot Shalom
-address: 1316 University Avenue, Berkeley, CA 94702
+venue: Jewish Community Center of the East Bay - Berkeley Branch
+address: 1414 Walnut St, Berkeley, CA 94709
 ---
 
-Please join us for our traditional egalitarian Shabbat morning service. We will be meeting in the Art Room upstairs in the Netivot Shalom building.
+This Shabbat we will celebrate **Fanya Fenton becoming Bat Mizvah**. Come help Fanya and her family rejoice in this wonderful simcha! 
 
-Davening will be followed by kiddush. Looking forward to seeing you there. Please let us know if you have any questions - email [info at minyandafna . org](mailto:info@minyandafna.org)
+Kiddush lunch will follow davening. 
 
-_Nevitot Shalom is fully ADA compliant._
+**Note the change from our usual Shabbat morning location.**
+
+*The Berkeley JCC is fully ADA compliant
