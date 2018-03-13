@@ -1,12 +1,12 @@
 ---
 title: Shabbat Morning Davening
-date: 2018-03-17 00:09:30 -08:00
+date: 2018-03-17 01:09:30 -07:00
 tags:
 - shabbat
 - davening
 layout: event
 allday: false
-end-date: 2018-03-17 12:00:00 -08:00
+end-date: 2018-03-17 13:00:00 -07:00
 time: 9:30 am
 venue: Congregation Netivot Shalom
 address: 1316 University Avenue, Berkeley, CA 94702
