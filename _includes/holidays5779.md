@@ -1,7 +1,7 @@
 ## High Holidays 2018/5779
 {: .featurette-heading}
 
-Minyan Dafna will be holding spirited and songful Yamim Noraim (High Holidays) services in Berkeley for its third year. Join us for traditional-egalitarian davening, lead by community members.
+Minyan Dafna will be holding spirited and songful Yamim Noraim (High Holidays) services in Berkeley for its fourth year. Join us for traditional-egalitarian davening, led by community members.
 
 Services are free, but a [donation](https://donorbox.org/minyan-dafna-high-holidays-2018) of $18 per day or $36 for both Rosh Hashana and Yom Kippur will help us defray the costs of space rental.
 
@@ -14,7 +14,7 @@ We hope you will bring your friends and family! Shana Tova!
 | Rosh Hashana I | Rosh Hashana II | Yom Kippur |
 |--------|-------|--------|
 | Monday, September 10 | Tuesday, September 11 | Wednesday, September 18 |
-| 9 AM | 9 AM | 9 AM |
+| 9:00 AM | 9:00 AM | 9:00 AM |
 {: .table }
 
 After Rosh Hashana davening, we will have a communal kiddush.
