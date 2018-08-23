@@ -25,7 +25,7 @@ After Rosh Hashana davening, we will have a communal kiddush.
 
 We will be meeting on all days this year in the Upstairs Meeting Room at Finnish Hall.
 
-Finnish Hall is located at 1970 Chestnut St. in Berkeley.
+Finnish Hall is located at <strong>1970 Chestnut St.</strong> in Berkeley.
 
 <!-- <iframe
 height="200"
