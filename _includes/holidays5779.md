@@ -38,14 +38,14 @@ The entrance to the upstairs Meeting Room is up the stoop facing Chestnut Street
 
 ### Participating
 
-There are many opportunities for participation in High Holiday services. Aside from Torah readers and daveners (service leaders), we are also looking for people who are interested in teaching during a drash or volunteering. Please email highholidays@minyandafna.org if you are interested.
+There are many opportunities for participation in High Holiday services. Aside from Torah readers and daveners (service leaders), we are also looking for people who are interested in teaching during a drash or volunteering. Please email <a href="mailto:highholidays@minyandafna.org">highholidays@minyandafna.org</a> if you are interested.
 
 
 ### Hospitality
 
-If you would like to attend a Rosh Hashana lunch (following services), please email highholidays@minyandafna.org, and we will set you up with a member of the community.
+If you would like to attend a Rosh Hashana lunch (following services), please email <a href="mailto:highholidays@minyandafna.org">highholidays@minyandafna.org</a>, and we will set you up with a member of the community.
 
 
 ### Questions
 
-Email highholidays@minyandafna.org with any other questions. Shana Tova!
+Email <a href="mailto:highholidays@minyandafna.org">highholidays@minyandafna.org</a> with any other questions. Shana Tova!
