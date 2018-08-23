@@ -31,7 +31,7 @@ Finnish Hall is located at 1970 Chestnut St. in Berkeley.
 height="200"
 frameborder="0" style="border:0;width:100%"
 src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDodo60_nRbolJuU7aj9RSStWJPgfDvKCc &q=Finnish+Brotherhood+Hall" allowfullscreen>
-</iframe> --!>
+</iframe> -->
 
 
 The entrance to the upstairs Meeting Room is up the stoop facing Chestnut Street.
