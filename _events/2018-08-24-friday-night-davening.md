@@ -1,5 +1,5 @@
 ---
-title: **CANCELED**: Friday Night Davening
+title: CANCELED: Friday Night Davening
 date: 2018-08-24 19:00:00 -07:00
 tags:
 - shabbat
