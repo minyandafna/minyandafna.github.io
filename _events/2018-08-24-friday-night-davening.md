@@ -1,5 +1,5 @@
 ---
-title: Friday Night Davening
+title: **CANCELED**: Friday Night Davening
 date: 2018-08-24 19:00:00 -07:00
 tags:
 - shabbat
@@ -12,5 +12,6 @@ time: 7:00 pm
 venue: The Dream Institute
 address: 1672 University Avenue, Berkeley, CA 94703
 ---
+UPDATE:  Friday night davening has been canceled because the Dream Institute neighborhood has been closed by police.  We look forward to seeing you at High Holiday services at Finnish Hall!
 
-Join us for uplifting Erev Shabbat davening at the Dream Institute. Interested in hosting, davening, or giving a drash (for now or for the future)? [Let us know!](mailto:info@minyandafna.org)
+Interested in hosting, davening, or giving a drash at a future Minyan Dafna service? [Let us know!](mailto:info@minyandafna.org)
