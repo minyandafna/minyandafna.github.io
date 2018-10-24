@@ -1,6 +1,6 @@
 ---
 title: Shabbat Morning Davening
-date: 2019-01-12 00:09:30 -07:00
+date: 2019-01-12 09:30:00 -07:00
 tags:
 - shabbat
 - davening

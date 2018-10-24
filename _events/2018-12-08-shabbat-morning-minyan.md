@@ -1,6 +1,6 @@
 ---
 title: Shabbat Morning Davening
-date: 2018-12-08 00:09:30 -07:00
+date: 2018-12-08 09:30:00 -07:00
 tags:
 - shabbat
 - davening
