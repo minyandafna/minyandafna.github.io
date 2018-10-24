@@ -8,7 +8,7 @@ tags:
 layout: event
 allday: false
 end-date: 2019-01-25 19:30:00 -07:00
-time: 7:00 pm
+time: 6:30 pm
 venue: The Dream Institute
 address: 1672 University Avenue, Berkeley, CA 94703
 ---
