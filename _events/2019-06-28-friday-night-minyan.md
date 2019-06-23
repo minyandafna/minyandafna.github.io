@@ -15,6 +15,7 @@ address: 1364 Francisco Street, Berkeley, CA 94702
 Please join us for our traditional egalitarian Friday evening service followed by a scrumptious potluck dinner. 
 
 Sign up to join the potluck [here.](https://docs.google.com/spreadsheets/d/1bc2nzIlsdlsjIWL1ivHI9-rz3RrT51PW2OZb3BPkqNs/edit?usp=sharing)
+
 Please let us know if you have any questions - email [info at minyandafna . org](mailto:info@minyandafna.org)
 
 Looking forward to seeing you there! 
