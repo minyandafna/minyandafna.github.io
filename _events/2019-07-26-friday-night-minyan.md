@@ -13,6 +13,12 @@ address: 1401 Northside Avenue, Berkeley, CA 94702
 ---
 
 Please join us for our traditional egalitarian Friday evening service followed by a scrumptious potluck dinner. 
-Looking forward to seeing you there!  Please let us know if you have any questions - email [info at minyandafna.org](mailto:info@minyandafna.org)
+
+Sign up to join the potluck [here.]https://docs.google.com/spreadsheets/d/1vbTawkVFb44jVcGbSi4wozxLsCpVxMeQF5wfvJsPrbg/edit?usp=sharing)
+
+Please let us know if you have any questions - email [info at minyandafna . org](mailto:info@minyandafna.org)
+
+Looking forward to seeing you there! 
+
 
 _There is a short flight of stairs up to the entrance of this home._
