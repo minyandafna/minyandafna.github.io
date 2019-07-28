@@ -9,7 +9,7 @@ allday: false
 end-date: 2019-08-23 21:00:00 -07:00
 time: 7:00 pm
 venue: Community Member's Home
-address: TBD
+address: 2249 Bonar Street, Berkeley, CA
 ---
 
 Please join us for our traditional egalitarian Friday evening service followed by a scrumptious potluck dinner. 
