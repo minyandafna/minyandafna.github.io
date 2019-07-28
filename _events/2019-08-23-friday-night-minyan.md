@@ -20,3 +20,4 @@ Please let us know if you have any questions - email [info at minyandafna . org]
 
 Looking forward to seeing you there! 
 
+_There is a short flight of stairs up to the entrance of this home._
