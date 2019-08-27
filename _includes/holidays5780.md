@@ -29,10 +29,9 @@ We hope you join us as we welcome the new year together!
 TBA
 
 ### RSVP
-If you are interested in joining for dinner on either night, kindly sign up for [First Night of Rosh Hashana Dinner here]
-(https://docs.google.com/spreadsheets/d/1e128EYAHMxZScmsluosUokUnc9XRaWq6Mn9kSKFg5lY/edit?usp=sharing) 
-and [Second Night of Rosh Hashana Potluck Dinner here]
-(https://docs.google.com/spreadsheets/d/1A_IKPkMD7XYAUy0kxtyB8m9OLmOstA85I8wqNHVGLa8/edit?usp=sharing).
+If you are interested in joining for dinner on either night, kindly sign up for 
+[First Night of Rosh Hashana Dinner here](https://docs.google.com/spreadsheets/d/1e128EYAHMxZScmsluosUokUnc9XRaWq6Mn9kSKFg5lY/edit?usp=sharing) 
+and [Second Night of Rosh Hashana Potluck Dinner here](https://docs.google.com/spreadsheets/d/1A_IKPkMD7XYAUy0kxtyB8m9OLmOstA85I8wqNHVGLa8/edit?usp=sharing).
 
 ### Questions
 
