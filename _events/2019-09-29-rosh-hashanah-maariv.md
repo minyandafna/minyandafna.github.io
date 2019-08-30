@@ -7,7 +7,7 @@ tags:
 - dinner
 layout: event
 allday: false
-end-date: 2019-08-23 21:00:00 -07:00
+end-date: 2019-09-29 21:00:00 -07:00
 time: 6:30 pm
 venue: TBA
 address: TBA
