@@ -8,6 +8,7 @@ On the second night of Rosh Hashanah, services will be followed by a festive pot
 Everyone is welcome for services and dinner on both nights!
 
 The donations we receive around the High Holidays help support Minyan Dafna throughout the year. If you are able, a donation of any size is greatly appreciated.
+
 <a href="https://donorbox.org/minyan-dafna" target="_blank" class="btn btn-primary">Donate Now</a>
 
 **RSVP**
