@@ -388,3 +388,17 @@ div.bpt_ticket_widget {
 
 .flaticon-stars4:before {
   content: "\e003"; }
+
+.btn-secondary {
+  border: solid;
+  border-width: 1px;
+  border-color: #79B988;
+  color: #79B988;
+}
+
+.btn-secondary:hover {
+  border: solid;
+  border-width: 1px;
+  border-color: #bdc3c7;
+  color: #bdc3c7;
+}
