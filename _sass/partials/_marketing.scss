@@ -64,5 +64,20 @@
   &:hover{
     background-color: $mdbrown;
   }
+	
+	
+.btn-secondary {
+  border: solid;
+  border-width: 1px;
+  border-color: $mdgreen;
+  color: $mdgreen;
+}
+
+.btn-secondary:hover {
+  border: solid;
+  border-width: 1px;
+  border-color: $mdgray;
+  color: $mdgray;
+}
 }
 
