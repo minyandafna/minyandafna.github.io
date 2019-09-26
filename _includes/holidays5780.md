@@ -31,6 +31,7 @@ We hope you join us as we welcome the new year together!
 ### Location
 
 First Night: 1716 Francisco Street, Apt 2, Berkeley, CA 94703
+
 Second Night: 2315 Jefferson Avenue, Apt 5, Berkeley, CA 94703
 
 *There are stairs up to the entrances of these homes.*
