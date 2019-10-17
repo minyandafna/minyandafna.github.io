@@ -34,4 +34,4 @@ The donations we receive around the holidays help support Minyan Dafna throughou
 
 Please let us know if you have any questions - email [info at minyandafna . org](mailto:info@minyandafna.org)
 
-_The space is on the second floor, stair access only. _
+_The space is on the second floor, stair access only._
