@@ -1,5 +1,5 @@
 ---
-title: Friday Night Davening
+title: Friday Night Davening & Potluck Dinner
 date: 2019-11-22 18:30:00 -07:00
 tags:
 - shabbat
@@ -12,10 +12,13 @@ venue: Community Member's Home
 address: TBA
 ---
 
-Please join us for our traditional egalitarian Friday evening service!
+Please join us for our Friday evening service followed by a scrumptious kosher potluck dinner!
+<a href="https://docs.google.com/spreadsheets/d/1q12vufx04G3vW1-oMGLPu_KcsqNfGMQcKIm8kmHgXpk/edit?usp=sharing" style="margin-right: 10px" class="btn btn-primary">RSVP for the potluck</a>
 
 Please let us know if you have any questions - email [info at minyandafna . org](mailto:info@minyandafna.org)
 
 Looking forward to seeing you there! 
+
+_In an effort to accommodate all members of our community, please bring food items that are in accordance with the Minyan Dafna Kashrut Policy available at minyandafna.org._					
 
 _There may be a flight of stairs up to the entrance of this home._
