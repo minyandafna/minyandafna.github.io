@@ -12,7 +12,7 @@ venue: Art Room of Congregation Netivot Shalom
 address: 1316 University Avenue, Berkeley, CA 94702
 ---
 
-Join us for our monthly shabbat morning service! We will be meeting in the Art Room upstairs in the Netivot Shalom building.
+Join us for our monthly shabbat morning service! We will be meeting in the Art Room located on the second floor of the Netivot Shalom building.
 Minyan will be followed by kiddush. Looking forward to seeing you there!
 
 Please let us know if you have any questions - email [info at minyandafna . org](mailto:info@minyandafna.org)
