@@ -13,6 +13,7 @@ address: TBA
 ---
 
 Please join us for our Friday evening service followed by a scrumptious kosher potluck dinner!
+
 <a href="https://docs.google.com/spreadsheets/d/1q12vufx04G3vW1-oMGLPu_KcsqNfGMQcKIm8kmHgXpk/edit?usp=sharing" style="margin-right: 10px" class="btn btn-primary">RSVP for the potluck</a>
 
 Please let us know if you have any questions - email [info at minyandafna . org](mailto:info@minyandafna.org)
