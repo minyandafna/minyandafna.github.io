@@ -9,7 +9,7 @@ allday: false
 end-date: 2019-08-23 21:00:00 -07:00
 time: 6:30 pm
 venue: Community Member's Home
-address: TBA
+address: 1364 Francisco Street, Berkeley, CA 94702
 ---
 
 Please join us for our Friday evening service followed by a scrumptious kosher potluck dinner!
@@ -22,4 +22,4 @@ Looking forward to seeing you there!
 
 _In an effort to accommodate all members of our community, please bring food items that are in accordance with the Minyan Dafna Kashrut Policy available at minyandafna.org._					
 
-_There may be a flight of stairs up to the entrance of this home._
+_There is a short flight of stairs up to the entrance of this home._
