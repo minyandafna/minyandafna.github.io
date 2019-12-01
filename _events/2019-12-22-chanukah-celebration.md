@@ -15,7 +15,7 @@ address: 1401 Northside Ave, Berkeley, CA 94702
 
 Chanukah oh Chanukah, come light the menorah
 
-We're having a party--no promises of hora
+We're having a party--there may even be a hora
 
 Gather round the table, we'll give you a treat
 
