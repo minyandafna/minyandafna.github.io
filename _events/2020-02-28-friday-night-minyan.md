@@ -22,10 +22,3 @@ Please let us know if you have any questions by emailing [info at minyandafna . 
 We look forward to seeing you there!
 
 _There may be stairs up to the homes._
-
-
-Please let us know if you have any questions - email [info at minyandafna . org](mailto:info@minyandafna.org)
-
-Looking forward to seeing you there! 
-
-_There may be a short flight of stairs up to the entrance of this home._
