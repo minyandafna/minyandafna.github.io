@@ -9,7 +9,7 @@ allday: false
 end-date: 2020-02-28 21:00:00 -07:00
 time: 6:30 pm
 venue: Community Member's Home
-address: TBA
+address: 1401 Northside Avenue, Berkeley, CA 94702
 ---
 
 Please join us for Friday evening services in February!
