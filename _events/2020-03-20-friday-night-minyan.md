@@ -1,5 +1,5 @@
 ---
-title: CANCELLED: Friday Night Davening & Potluck Dinner
+title: CANCELLED Friday Night Davening & Potluck Dinner
 date: 2020-03-20 18:30:00 -07:00
 tags:
 - shabbat
