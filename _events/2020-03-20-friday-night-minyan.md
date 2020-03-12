@@ -1,5 +1,5 @@
 ---
-title: Friday Night Davening & Potluck Dinner
+title: CANCELLED: Friday Night Davening & Potluck Dinner
 date: 2020-03-20 18:30:00 -07:00
 tags:
 - shabbat
@@ -13,14 +13,16 @@ venue: Community Member's Home
 address: TBD
 ---
 
-Please join us for our Friday evening service followed by a kosher potluck dinner!
+Dearest Community,
+As many of you are aware, the situation around COVID-19 is developing rapidly and stricter guidelines are being put into place to help slow the spread of the virus.
 
-<a href="https://docs.google.com/spreadsheets/d/16Dxa25fyWuP2OjVDQ2E_NMfIj6Nbh7RZytZVpZx_PkI/edit?usp=sharing" style="margin-right: 10px" class="btn btn-primary">RSVP for the potluck</a>
+Following the recommendations of public health experts, Minyan Dafna has made the difficult decision to cancel Shabbat Morning Davening this week (March 14) and Friday Night Davening & Potluck Dinner next week (March 20).
 
-Please let us know if you have any questions - email [info at minyandafna . org](mailto:info@minyandafna.org)
+While it saddens us to cancel services and miss these opportunities to celebrate together, we feel that these cancellations are important to help slow the spread of COVID-19 and protect the health of our community.
 
-Looking forward to seeing you there! 
+We encourage community members to continue to follow the CDC’s guidelines for preventing the spread of the virus such as frequent hand washing and avoiding close contact.
 
-_In an effort to accommodate all members of our community, please bring food items that are in accordance with the Minyan Dafna Kashrut Policy available at minyandafna.org._					
+We hope that our wonderful community will have the honor of joining together again very soon. In the meantime, if we can provide support to you during this difficult time, please don’t hesitate to reach out by emailing info@minyandafna.org.
 
-_There may be a short flight of stairs up to the entrance of this home._
+Wishing everyone good health,
+The Minyan Dafna Team
