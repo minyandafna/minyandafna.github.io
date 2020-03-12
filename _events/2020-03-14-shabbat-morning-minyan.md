@@ -1,5 +1,5 @@
 ---
-title: CANCELLED: Shabbat Morning Davening & Kiddush
+title: CANCELLED Shabbat Morning Davening & Kiddush
 date: 2020-03-14 09:30:00 -07:00
 tags:
 - shabbat
