@@ -1,5 +1,5 @@
 ---
-title: Shabbat Morning Davening & Kiddush
+title: CANCELLED Shabbat Morning Davening & Kiddush
 date: 2020-06-13 09:30:00 -07:00
 tags:
 - shabbat
@@ -12,9 +12,9 @@ venue: Second Floor of Congregation Netivot Shalom
 address: 1316 University Avenue, Berkeley, CA 94702
 ---
 
-Join us for our monthly shabbat morning service! We will be meeting on the second floor of the Netivot Shalom building.
-Minyan will be followed by kiddush. Looking forward to seeing you there!
+We have cancelled this event to help slow the spread of COVID-19. We are looking forward to celebrating as a community soon.
+In the meantime, please let us know if you have any questions or if we can provide support- email [info at minyandafna . org](mailto:info@minyandafna.org)
 
-Please let us know if you have any questions - email [info at minyandafna . org](mailto:info@minyandafna.org)
+Wishing everyone good health.
 
 _Nevitot Shalom is fully ADA compliant with the use of an elevator._
