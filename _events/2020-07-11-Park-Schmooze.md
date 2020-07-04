@@ -1,5 +1,5 @@
 ---
-title: Socially Distant Park Schmooze
+title: Socially Distant Shabbat Schmooze
 date: 2020-07-11 15:30:00 -07:00
 tags:
 - shabbat
