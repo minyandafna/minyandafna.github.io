@@ -42,7 +42,7 @@ On both days of Rosh Hashanah, davening will take place near the North Berkeley 
 
 Our Tashlich & Schmooze will take place at Strawberry Creek Park, in the green space near Allston Way.
 
-_There are narrow pathways and uneven ground at both in-person locations._
+_There are narrow pathways and uneven ground at the davening location._
 
 
 ### Questions
