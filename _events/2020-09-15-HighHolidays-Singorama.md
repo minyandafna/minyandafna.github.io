@@ -10,7 +10,7 @@ layout: event
 allday: false
 end-date: 2020-09-20 20:30:00 -07:00
 time: 7:30 pm
-venue: Hosted virtually
+address: Hosted virtually
 ---
 Connect with tradition and community at Minyan Dafna’s High Holiday celebrations.
 
