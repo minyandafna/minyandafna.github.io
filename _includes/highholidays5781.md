@@ -2,7 +2,7 @@
 {: .featurette-heading}
 
 Connect with tradition and community at Minyan Dafna’s High Holiday celebrations.
-Minyan Dafna will be gathering for a traditional-egalitarian davening, led by community members, on both days of Rosh Hashanah. We will also meet for Tashlich and socially-distant schmoozing in the park on the second day of Rosh Hashanah.
+Minyan Dafna will be gathering for a traditional-egalitarian davening, led by community members, on both days of Rosh Hashanah. We will also meet virtually for a Sing-O-Rama before Rosh Hashanah and for Tashlich and socially-distant schmoozing in the park on the second day of Rosh Hashanah.
 
 _Details about Yom Kippur will be available shortly._
 
@@ -10,7 +10,8 @@ The donations we receive around the High Holidays help support Minyan Dafna thro
 
 <a href="https://donorbox.org/minyan-dafna-high-holidays-2020" target="_blank" class="btn btn-primary">Donate Now</a>
 
-## Register
+
+### Register
 In order to participate in services, you must preregister through [this form](https://airtable.com/shr3mj5cEGbYWbmDq) by Tuesday, September 8. Space is limited but we will try to accommodate as many registrations as possible.
 No registration is required for Tashlich.
 
