@@ -15,11 +15,12 @@ address: North Berkeley BART Station
 action: Donate
 action-url: https://donorbox.org/minyan-dafna-high-holidays-2020
 ---
-<a href="https://airtable.com/shr3mj5cEGbYWbmDq" style="margin-right: 10px" class="btn btn-primary">Register here</a> <a href="https://drive.google.com/file/d/1t23nqmhT_YMNdMy55NP2aKRXUYm0c6gg/view?usp=sharing" target="_blank" class="btn btn-secondary">Read protocol</a><a href="https://donorbox.org/minyan-dafna-high-holidays-2020" target="_blank" class="btn btn-primary">Donate now</a>
+<a href="https://airtable.com/shr3mj5cEGbYWbmDq" style="margin-right: 10px" class="btn btn-primary">Register here</a> <a href="https://drive.google.com/file/d/1t23nqmhT_YMNdMy55NP2aKRXUYm0c6gg/view?usp=sharing" target="_blank" class="btn btn-secondary">Read protocol</a> <a href="https://donorbox.org/minyan-dafna-high-holidays-2020" target="_blank" class="btn btn-primary">Donate now</a>
 
 
 Connect with tradition and community at Minyan Dafna’s Rosh Hashanah celebrations.
-Minyan Dafna will be gathering for a traditional-egalitarian davening, led by community members, on both days of Rosh Hashanah. We will also meet for Tashlich and socially-distant schmoozing in the park on the second day of Rosh Hashanah.
+Minyan Dafna will be gathering for a traditional-egalitarian davening, led by community members, on both days of Rosh Hashanah. Davening will take place near the North Berkeley BART station; the exact address will be shared with attendees.
+
 
 In order to participate in services, you must preregister through the above form by Tuesday, September 8. Space is limited but we will try to accommodate as many registrations as possible.
 
@@ -34,4 +35,4 @@ We look forward to seeing you there!
 
 _There are narrow pathways and uneven ground at the davening location._
 
-<a href="https://airtable.com/shr3mj5cEGbYWbmDq" style="margin-right: 10px" class="btn btn-primary">Register here</a> <a href="https://drive.google.com/file/d/1t23nqmhT_YMNdMy55NP2aKRXUYm0c6gg/view?usp=sharing" target="_blank" class="btn btn-secondary">Read protocol</a><a href="https://donorbox.org/minyan-dafna-high-holidays-2020" target="_blank" class="btn btn-primary">Donate now</a>
+<a href="https://airtable.com/shr3mj5cEGbYWbmDq" style="margin-right: 10px" class="btn btn-primary">Register here</a> <a href="https://drive.google.com/file/d/1t23nqmhT_YMNdMy55NP2aKRXUYm0c6gg/view?usp=sharing" target="_blank" class="btn btn-secondary">Read protocol</a> <a href="https://donorbox.org/minyan-dafna-high-holidays-2020" target="_blank" class="btn btn-primary">Donate now</a>
