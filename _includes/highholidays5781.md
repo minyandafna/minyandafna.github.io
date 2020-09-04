@@ -13,6 +13,8 @@ The donations we receive around the High Holidays help support Minyan Dafna thro
 
 ### Register
 In order to participate in services, you must preregister through [this form](https://airtable.com/shr3mj5cEGbYWbmDq) by Tuesday, September 8. Space is limited but we will try to accommodate as many registrations as possible.
+
+RSVP for our Sing-O-Rama [here.](https://docs.google.com/spreadsheets/d/12oNTEg9HxzhkYsfgovrSC6Oj9iE9zR9SWrd3owGnzqw/edit?usp=sharing)
 No registration is required for Tashlich.
 
 Before registering to join us, please familiarize yourself with [the protocol for in-person davening](https://drive.google.com/file/d/1t23nqmhT_YMNdMy55NP2aKRXUYm0c6gg/view?usp=sharing).
