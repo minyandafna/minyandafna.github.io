@@ -1,6 +1,6 @@
 ---
 title: Rosh Hashanah Day I
-date: 2020-09-19 00:00:00 -07:00
+date: 2020-09-19 09:00:00 -07:00
 tags:
 - high holidays
 - davening
@@ -8,7 +8,7 @@ tags:
 - new year
 layout: event
 allday: false
-end-date: 2020-09-19 06:00:00 -07:00
+end-date: 2020-09-19 12:00:00 -07:00
 time: 9:00 am
 venue: Community Member's Backyard
 address: North Berkeley BART Station
