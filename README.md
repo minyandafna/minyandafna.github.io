@@ -1,4 +1,4 @@
 minyandafna.github.io
 ==================
 
-Minyan Dafna public website
+Minyan Dafna public website.
