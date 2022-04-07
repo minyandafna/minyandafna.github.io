@@ -8,11 +8,11 @@ layout: event
 allday: false
 end-date: 2022-04-09 12:30:00 -07:00
 time: 10:00 am
-venue: Community Member's Backyard
-address: 1430 California Street
+venue: Congregation Netivot Shalom
+address: 1316 University Ave
 ---
 
-Celebrate Shabbat with spirited outdoor services! **Please note, masks are required for all participants and vaccines are required for those 12+.** To join us, please enter the Netivot courtyard through the door to the left of the building, next to the parking lot. From there, please enter the building and walk across the social hall to your right (opposite the sanctuary). We'll be set up in the adjacent outdoor area.
+Celebrate Shabbat with spirited outdoor services! **Please note, an N94, N95, KN95, or a cloth mask in combination with a surgical mask is required for all participants 2+ and vaccines are required for those 5+.** To join us, please enter the Netivot courtyard through the door to the left of the building, next to the parking lot. From there, please enter the building and walk across the social hall to your right (opposite the sanctuary). We'll be set up in the adjacent outdoor area.
 
 We're looking forward to davening with you!
 
