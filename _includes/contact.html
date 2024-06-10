@@ -6,7 +6,7 @@
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">
           {{ site.data.sitetext[site.locale].contact.title | markdownify | default: Contact Us }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].contact.text | default: "" }}</h3>
+        <h3 class="section-subheading">{{ site.data.sitetext[site.locale].contact.text | default: "" }}</h3>
       </div>
     </div>
     <div class="row">
@@ -29,12 +29,14 @@
                   required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.email-validation | default: "Please enter your email address." }}">
                 <p class="help-block text-danger"></p>
               </div>
+              {% comment %}
               <div class="form-group">
                 <input name="phone" class="form-control" id="phone" type="tel"
                   placeholder="{{ site.data.sitetext[site.locale].contact.phone | default: "Phone Number*" }}"
                   required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.phone-validation | default: "Please enter your phone number." }}">
                 <p class="help-block text-danger"></p>
               </div>
+              {% endcomment %}
             </div>
             <div class="col-md-6">
               <div class="form-group">
@@ -49,8 +51,10 @@
             <div class="clearfix"></div>
             <div class="col-lg-12 text-center">
               <div id="success"></div>
-              <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase"
+              <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase mr-md-4 mb-4 mb-md-0"
                 type="submit">{{ site.data.sitetext[site.locale].contact.submit | default: "Send Message" }}</button>
+              <a href="{{ site.data.sitetext[site.locale].contact.mailing-list-url }}"
+                class="btn btn-secondary btn-xl text-uppercase mr-md-4 mb-4 mb-md-0">{{ site.data.sitetext[site.locale].contact.mailing-list }}</a>
             </div>
             <input type="text" name="_gotcha" style="display:none">
             <input type="hidden" name="_next" value="#" />
@@ -90,12 +94,14 @@
                   required="required" data-validation-required-message="{{ site.data.sitetext.contact.email-validation | default: "Please enter your email address." }}">
                 <p class="help-block text-danger"></p>
               </div>
+              {% comment %}
               <div class="form-group">
                 <input name="phone" class="form-control" id="phone" type="tel"
                   placeholder="{{ site.data.sitetext.contact.phone | default: "Phone Number*" }}"
                   required="required" data-validation-required-message="{{ site.data.sitetext.contact.phone-validation | default: "Please enter your phone number." }}">
                 <p class="help-block text-danger"></p>
               </div>
+              {% endcomment %}
             </div>
             <div class="col-md-6">
               <div class="form-group">

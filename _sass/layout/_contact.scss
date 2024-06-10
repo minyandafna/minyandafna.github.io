@@ -7,6 +7,9 @@ section#contact {
   .section-heading {
     color: $white;
   }
+  .section-subheading {
+    color: $gray-400;
+  }
   .form-group {
     margin-bottom: 25px;
     input,
@@ -17,7 +20,7 @@ section#contact {
       height: auto;
     }
     textarea.form-control {
-      height: 248px;
+      height: 157px;
     }
   }
   .form-control:focus {

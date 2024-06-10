@@ -13,18 +13,16 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Portfolio"
-      section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
+    - title: "Get Involved"
+      section: get-involved
+    - title: "Calendar"
+      section: calendar
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Donate"
+      url: https://donorbox.org/minyan-dafna
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -34,46 +32,46 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
-# -------
-es: &DEFAULT_ES
-  nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+# # Spanish
+# # -------
+# es: &DEFAULT_ES
+#   nav:
+#     - title: "Servicios"
+#       section: servicios
+#     - title: "Portafolio"
+#       section: portafolio
+#     - title: "Sobre Nosotros"
+#       section: nosotros
+#     - title: "Cronología"
+#       section: cronologia
+#     - title: "Equipo"
+#       section: equipo
+#     - title: "Contáctenos"
+#       section: contacto
+#     - title: "Fuente de la plantilla"
+#       url: https://github.com/raviriley/agency-jekyll-theme/
+# es-ES:
+#   <<: *DEFAULT_ES
+# es-CO:
+#   <<: *DEFAULT_ES
 
-# Deutsch
-# -----------------
-de: &DEFAULT_DE
-  nav:
-    - title: "Leistungen"
-      section: Leistungen
-    - title: "Portfolio"
-      section: Portfolio
-    - title: "Über uns"
-      section: Ueber
-    - title: "Geschichte"
-      section: Geschichte
-    - title: "Team"
-      section: Team
-    - title: "Kontakt"
-      section: Kontakt
-    - title: "Quellcode des Themas"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-de-DE:
-  <<: *DEFAULT_DE
+# # Deutsch
+# # -----------------
+# de: &DEFAULT_DE
+#   nav:
+#     - title: "Leistungen"
+#       section: Leistungen
+#     - title: "Portfolio"
+#       section: Portfolio
+#     - title: "Über uns"
+#       section: Ueber
+#     - title: "Geschichte"
+#       section: Geschichte
+#     - title: "Team"
+#       section: Team
+#     - title: "Kontakt"
+#       section: Kontakt
+#     - title: "Quellcode des Themas"
+#       url: https://github.com/raviriley/agency-jekyll-theme/
+# de-DE:
+#   <<: *DEFAULT_DE
