@@ -18,4 +18,4 @@ This should allow you to view the website at [http://localhost:4000](http://loca
 
 ## File structure
 
-All of the main website content can be edited in [_data/sitetext.yml](_data/sitetext.yml) and [_data/navigation.yml](_data/navigation.yml). Some options are also in [_config.yml](_config.yml); these require restarting the development server.
+All of the main website content can be edited in [`_data/sitetext.yml`](_data/sitetext.yml) and [`_data/navigation.yml`](_data/navigation.yml). Some options are also in [`_config.yml`](_config.yml); after these are changed the development server needs to be restarted to see the effects. When changing content not in `_config.yml` only a browser refresh is needed.
