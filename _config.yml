@@ -32,6 +32,21 @@ analytics:
 collections:
   portfolio:
 
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE.txt
+  - jekyll-agency.gemspec
+
 markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
