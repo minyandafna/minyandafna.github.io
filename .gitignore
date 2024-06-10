@@ -1,6 +1,8 @@
-config.codekit
-_site
-js/vendor.js
+*.gem
+.bundle
 .sass-cache
-
-.DS_Store
+.jekyll-cache
+_site
+Gemfile.lock
+unused
+bootstrap-reference.html

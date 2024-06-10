@@ -1,31 +1,35 @@
-      <div id="about" class="featurette cbp-so-section">
-      	<div class="container">
-      		<div class="row">
-		        <div class="col-sm-7 cbp-so-side cbp-so-side-left">
-		          <h2 class="featurette-heading">About</h2>
-		    
-			  <p>Minyan Dafna is an independent traditional egalitarian minyan in Berkeley, California. We come together two to three times a month for Friday night (Kabbalat Shabbat) and Shabbat morning davening. Through some experimention with different models of davening and learning, we are creating a vibrant, energetic, and inclusive community committed to <i>halakha</i>.</p>
-              <p> If you’d like to contribute with your opinion, time, or in any other way, please let us know. We are excited about your involvement and about growing this prayer community together!</p>
-
-        
-              <button class="btn btn-default  " data-toggle="collapse" data-target="#kashrut" aria-expanded="false" aria-controls="kashrut">Kashrut Policy</button>
-
-
-              <div class="collapse panel" id="kashrut">
-                <div class="panel-body">
-<!--                <h3>Explanation of Kashrut Policy</h3>-->
-                <p>In an effort to accommodate all members of our community, we ask that all food for community events be prepared in a kosher kitchen, and that ingredients for the meal (including cheese) be marked with a recognized kosher symbol (more than just "K"). If you’d like to bring something to a potluck event but don’t have a kosher kitchen, you can always bring a packaged or raw kosher item, such as challah, wine, pre-made dessert, and fresh fruit. If you’re interested in hosting a Minyan Dafna event, but you’re not sure if your home kitchen meets these standards, please contact us and we will be happy to help!
-                </p>
-                </div>
-              </div>
-
-
-		        </div>
-		        <div class="col-sm-5 cbp-so-side cbp-so-side-right">
-
-		         <img class="featurette-image img-responsive" src="/img/roomphoto.jpg" alt="Photo of Minyan Dafna room setup">
-
-		        </div>
-		    </div>
-      	</div>
+<!-- About -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="page-section" id="{{ site.data.sitetext[site.locale].about.section | default: "about" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].about.title | default: "About Us" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].about.text | default: "" }}</h3>
       </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="page-section" id="{{ site.data.sitetext.about.section | default: "about" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext.about.text | default: "" }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <div class="large text-muted">{{ site.data.sitetext.about.body | markdownify }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- End About -->
