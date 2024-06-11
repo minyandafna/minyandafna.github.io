@@ -1,15 +1,21 @@
-# [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) Starter Template
-[![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt)
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/raviriley)
+# Minyan Dafna website
 
-This is the fastest and easiest way to get up and running on GitHub Pages.
-Simply generate your own repository by clicking the 
-[![template button](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/raviriley/agency-jekyll-theme-starter/generate) button, 
-then replace the sample content with your own and configure for your needs.
+This Jekyll-based website is based off of [agency-jekyll-theme](https://github.com/raviriley/agency-jekyll-theme).
 
-If you want your website to be at `YOUR-USERNAME.github.io`, that's what you must name your repo. If you want it to be like this: `https://raviriley.github.io/agency-jekyll-theme-starter/`, them make sure the `baseurl` in `_config.yml` matches the name of your repo. You can also use a `CNAME` file and your own custom domain!
+## Local development
 
-**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.**
+To work on the website locally, install [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Then, run
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/raviriley)
+    git clone https://github.com/minyandafna/minyandafna.github.io
+    cd minyandafna.github.io
+    bundle install
+
+This will download the website and install dependencies. To view a live preview, run
+
+    bundle exec jekyll serve --trace
+
+This should allow you to view the website at [http://localhost:4000](http://localhost:4000).
+
+## File structure
+
+All of the main website content can be edited in [`_data/sitetext.yml`](_data/sitetext.yml) and [`_data/navigation.yml`](_data/navigation.yml). Some options are also in [`_config.yml`](_config.yml); after these are changed the development server needs to be restarted to see the effects. When changing content not in `_config.yml` only a browser refresh is needed.
