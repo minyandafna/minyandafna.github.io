@@ -1,6 +1,9 @@
 // Styling for the navbar
 #mainNav {
-  background-color: $gray-200;
+  background-color: transparent;
+  -webkit-transition: background-color 0.5s;
+  -moz-transition: background-color 0.5s;
+  transition: background-color 0.5s;
   .navbar-toggler {
     font-size: 12px;
     right: 0;
@@ -24,6 +27,9 @@
     &:hover {
       color: darken($primary, 10%);
     }
+  }
+  &.navbar-shrink {
+    background-color: $gray-200;
   }
   &.navbar-shrink .navbar-brand {
     opacity: 1;
