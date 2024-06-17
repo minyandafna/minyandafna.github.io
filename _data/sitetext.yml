@@ -74,6 +74,23 @@ Berkeley, CA). Services start at 9:45am."
     text: "A community-led minyan committed to traditional, inclusive, and song-filled davening."
     body: "Minyan Dafna is an independent traditional-egalitarian minyan in Berkeley, California. We value creating a welcoming and inclusive space for halakhic and soulful prayer. We meet two to three times monthly for Shabbat services and occasionally for other holidays and community events.\n\nWe love welcoming new faces and voices to our community. If you'd like to join us, [sign up for our mailing list](http://eepurl.com/becclH) and <a href='#get-involved' class='js-scroll-trigger'>check out other ways to get involved</a>!"
     section: about
+    images:
+      - src: assets/img/about/purim-5784-1.jpg
+        width: 3
+        alt: "Minyan Dafna members celebrating Purim 5784"
+      - src: assets/img/about/purim-5784-2.jpg
+        width: 4
+        alt: "Megillah reading at Minyan Dafna's Purim 5784 celebration"
+      - src: assets/img/about/purim-5784-3.jpg
+        width: 3
+        alt: "Minyan Dafna members celebrating Purim 5784"
+      - src: assets/img/about/purim-5784-4.jpg
+        width: 4
+        alt: "Minyan Dafna members celebrating Purim 5784"
+      - src: assets/img/about/purim-5784-5.jpg
+        width: 4
+        alt: "Minyan Dafna members celebrating Purim 5784"
+    images-caption: "Minyan Dafna members celebrating Purim"
 
   get-involved:
     title: "Get Involved"
