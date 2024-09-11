@@ -65,11 +65,13 @@ h6 {
 // Highlight color customization
 ::-moz-selection {
   background: $primary;
+  color: white;
   text-shadow: none;
 }
 
 ::selection {
   background: $primary;
+  color: white;
   text-shadow: none;
 }
 
@@ -79,4 +81,18 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+
+.high-holidays table {
+  margin: 20px auto;
+  td {
+    color: black;
+    vertical-align: top;
+    padding: 8px;
+  }
+  td:first-child, td:nth-child(2) {
+    color: $primary;
+    font-weight: 700;
+    white-space: nowrap;
+  }
 }

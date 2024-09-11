@@ -1,0 +1,32 @@
+<!-- High holidays -->
+  <section class="page-section high-holidays" id="{{ site.data.sitetext[site.locale].high_holidays.section | default: "high-holidays" }}">
+    <div class="container">
+	
+      <div class="row text-center">
+        <div class="col-lg-12">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].high_holidays.title | default: "High Holidays" }}</h2>
+          {% if site.data.sitetext[site.locale].services.text %}
+		  {% endif %}
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-lg-8">
+		      <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].high_holidays.text }}</h3>
+        </div>
+      </div>
+	  
+      <div class="row justify-content-center text-center">
+	    {% for column in site.data.sitetext[site.locale].high_holidays.columns %}
+        <div class="col-xl-6 col-lg-8 pb-5">
+          <h4 class="service-heading">{{ column.title | markdownify }}</h4>
+          <div class="text-muted text-left">{{ column.text | markdownify }}</div>
+          {% if column.button_title %}
+          <a class="btn btn-primary js-scroll-trigger mr-4" href="{{ column.button_url }}">{{ column.button_title }}</a>
+          {% endif %}
+        </div>
+	    {% endfor %}
+      </div>
+	  
+    </div>
+  </section>
+<!-- End high holidays -->
