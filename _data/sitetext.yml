@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     # buttonlink: "#services"
 
   high_holidays:
-    title: "High Holidays 5785/2024"
+    title: "High Holidays 5786/2025"
     text: |
       Minyan Dafna is again hosting songful, soulful high holiday services, and registration is now open. We were wowed, uplifted, and deepened by the power of the davening and the community last year, and we hope you will join us again this year. All services will take place at Congregation Netivot Shalom and next door at The Berkeley School. Schedule and details below.
     section: high-holidays
@@ -28,25 +28,24 @@ en: &DEFAULT_EN
 
           In the registration form, you will also be invited to:
            * **Donate to Minyan Dafna.** High Holiday registration is by donation, and we greatly appreciate donations of any size in order to sustain Minyan Dafna throughout the year. We also welcome support in the form of volunteering!
-           * **Register for childcare.** Netivot Shalom is organizing childcare for the high holidays, and anyone attending Dafna services is welcome to register their kids for it. **Children must be pre-registered by the firm deadline of Sept. 16th** (details and fees in the form).
+           * **Register for childcare.** Netivot Shalom is organizing childcare for the high holidays, and anyone attending Dafna services is welcome to register their kids for it.
         button_title: "Register for High Holidays"
-        button_url: "https://docs.google.com/forms/d/e/1FAIpQLSfQY9U1lFYf-Ilb0569I8MdzEoY97RJ1aXsmCl-_0QVpe5xrQ/viewform?usp=sf_link"
+        button_url: "https://docs.google.com/forms/d/e/1FAIpQLSdJfl64bAgOr_neQXpmzG-HuwcXV5HYM8UaHUyBN_zHu9OE4g/viewform?usp=header"
       - title: "Schedule"
         text: |
           ##### Rosh Hashanah
           
-          | Oct. 2 | 8:45am | Rosh Hashanah Day 1 services | Netivot Shalom Social Hall |
-          | Oct. 3 | 8:45am | Rosh Hashanah Day 2 services | Netivot Shalom Social Hall |
-          |  | ~1:30pm | Dafna Community Picnic Lunch | Strawberry Creek Park |
+          | Sept. 23 | 8:45am | Rosh Hashanah Day 1 services | Netivot Shalom Social Hall |
+          | Sept. 24 | 8:45am | Rosh Hashanah Day 2 services | Netivot Shalom Social Hall |
 
-          We'll be holding Rosh Hashanah services for the first and second days in the Netivot Shalom social hall. Following services on day 2 we'll have a **Dafna community picnic at Strawberry Creek Park**!
+          We'll be holding Rosh Hashanah services for the first and second days in the Netivot Shalom social hall.
 
           ##### Yom Kippur
 
-          | Oct. 11 | 5:45pm | Kol Nidrei | The Berkeley School |
-          | Oct. 12 | 8:45am | Yom Kippur daytime services | Netivot Shalom Social Hall |
-          |  | 4:20pm | Mincha and Yona | The Berkeley School |
-          |  | 5:45pm | Neilah and Maariv | The Berkeley School |
+          | Oct. 1 | 6:15pm | Kol Nidrei | The Berkeley School |
+          | Oct. 2 | 8:45am | Yom Kippur daytime services | Netivot Shalom Social Hall |
+          |  | 4:30pm | Mincha and Yona | Netivot Shalom Upstairs Classroom |
+          |  | 6:00pm | Neilah and Maariv | The Berkeley School |
 
           Yom Kippur services will be held at Congregation Netivot Shalom and in an indoor space at The Berkeley School (right next to Netivot). 
 
