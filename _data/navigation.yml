@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "High Holidays"
-      section: high-holidays
+    # - title: "High Holidays"
+    #   section: high-holidays
     - title: "Services"
       section: services
     - title: "About"
       section: about
-    # - title: "Get Involved"
-    #   section: get-involved
+    - title: "Get Involved"
+      section: get-involved
     - title: "Calendar"
       section: calendar
     - title: "Contact"
